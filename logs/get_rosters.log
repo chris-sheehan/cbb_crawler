@@ -1,0 +1,1574 @@
+Jan 08, 2017 13:22:07 : [INFO/MainProcess] get_all_rosters Line no. 52 :['West Virginia', 'west-virginia']
+Jan 08, 2017 13:22:07 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:22:07 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/['West%20Virginia',%20'west-virginia']/2017.html HTTP/1.1" 404 None
+Jan 08, 2017 13:26:10 : [INFO/MainProcess] get_all_rosters Line no. 52 :West Virginia
+Jan 08, 2017 13:26:10 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:11 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/west-virginia/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:11 : [INFO/MainProcess] get_all_rosters Line no. 52 :Virginia
+Jan 08, 2017 13:26:11 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:12 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/virginia/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:12 : [INFO/MainProcess] get_all_rosters Line no. 52 :Kentucky
+Jan 08, 2017 13:26:12 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:13 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/kentucky/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:13 : [INFO/MainProcess] get_all_rosters Line no. 52 :Duke
+Jan 08, 2017 13:26:13 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:14 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/duke/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:14 : [INFO/MainProcess] get_all_rosters Line no. 52 :Kansas
+Jan 08, 2017 13:26:14 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:15 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/kansas/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:15 : [INFO/MainProcess] get_all_rosters Line no. 52 :North Carolina
+Jan 08, 2017 13:26:15 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:16 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/north-carolina/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:16 : [INFO/MainProcess] get_all_rosters Line no. 52 :UCLA
+Jan 08, 2017 13:26:16 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:17 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/ucla/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:17 : [INFO/MainProcess] get_all_rosters Line no. 52 :Louisville
+Jan 08, 2017 13:26:17 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:18 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/louisville/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:18 : [INFO/MainProcess] get_all_rosters Line no. 52 :Villanova
+Jan 08, 2017 13:26:18 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:19 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/villanova/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:19 : [INFO/MainProcess] get_all_rosters Line no. 52 :Gonzaga
+Jan 08, 2017 13:26:19 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:20 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/gonzaga/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:20 : [INFO/MainProcess] get_all_rosters Line no. 52 :Baylor
+Jan 08, 2017 13:26:20 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:21 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/baylor/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:21 : [INFO/MainProcess] get_all_rosters Line no. 52 :Purdue
+Jan 08, 2017 13:26:21 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:22 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/purdue/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:22 : [INFO/MainProcess] get_all_rosters Line no. 52 :Indiana
+Jan 08, 2017 13:26:22 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:23 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/indiana/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:23 : [INFO/MainProcess] get_all_rosters Line no. 52 :Cincinnati
+Jan 08, 2017 13:26:23 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:24 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/cincinnati/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:24 : [INFO/MainProcess] get_all_rosters Line no. 52 :Butler
+Jan 08, 2017 13:26:24 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:25 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/butler/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:25 : [INFO/MainProcess] get_all_rosters Line no. 52 :Notre Dame
+Jan 08, 2017 13:26:25 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:26 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/notre-dame/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:26 : [INFO/MainProcess] get_all_rosters Line no. 52 :Wichita State
+Jan 08, 2017 13:26:26 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:27 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/wichita-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:27 : [INFO/MainProcess] get_all_rosters Line no. 52 :Florida
+Jan 08, 2017 13:26:27 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:28 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/florida/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:28 : [INFO/MainProcess] get_all_rosters Line no. 52 :Iowa State
+Jan 08, 2017 13:26:28 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:29 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/iowa-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:29 : [INFO/MainProcess] get_all_rosters Line no. 52 :Wisconsin
+Jan 08, 2017 13:26:29 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:30 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/wisconsin/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:30 : [INFO/MainProcess] get_all_rosters Line no. 52 :Miami (FL)
+Jan 08, 2017 13:26:30 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:31 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/miami-fl/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:31 : [INFO/MainProcess] get_all_rosters Line no. 52 :Florida State
+Jan 08, 2017 13:26:31 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:32 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/florida-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:32 : [INFO/MainProcess] get_all_rosters Line no. 52 :Creighton
+Jan 08, 2017 13:26:32 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:33 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/creighton/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:33 : [INFO/MainProcess] get_all_rosters Line no. 52 :South Carolina
+Jan 08, 2017 13:26:33 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:34 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/south-carolina/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:34 : [INFO/MainProcess] get_all_rosters Line no. 52 :Michigan
+Jan 08, 2017 13:26:34 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:35 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/michigan/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:35 : [INFO/MainProcess] get_all_rosters Line no. 52 :Syracuse
+Jan 08, 2017 13:26:35 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:36 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/syracuse/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:36 : [INFO/MainProcess] get_all_rosters Line no. 52 :Xavier
+Jan 08, 2017 13:26:36 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:37 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/xavier/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:37 : [INFO/MainProcess] get_all_rosters Line no. 52 :Texas Tech
+Jan 08, 2017 13:26:37 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:38 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/texas-tech/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:38 : [INFO/MainProcess] get_all_rosters Line no. 52 :Houston
+Jan 08, 2017 13:26:38 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:39 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/houston/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:39 : [INFO/MainProcess] get_all_rosters Line no. 52 :Oklahoma State
+Jan 08, 2017 13:26:39 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:40 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/oklahoma-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:40 : [INFO/MainProcess] get_all_rosters Line no. 52 :Saint Mary's (CA)
+Jan 08, 2017 13:26:40 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:41 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/saint-marys-ca/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:41 : [INFO/MainProcess] get_all_rosters Line no. 52 :Oregon
+Jan 08, 2017 13:26:41 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:42 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/oregon/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:42 : [INFO/MainProcess] get_all_rosters Line no. 52 :Arizona
+Jan 08, 2017 13:26:42 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:43 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/arizona/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:43 : [INFO/MainProcess] get_all_rosters Line no. 52 :Clemson
+Jan 08, 2017 13:26:43 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:44 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/clemson/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:44 : [INFO/MainProcess] get_all_rosters Line no. 52 :Texas Christian
+Jan 08, 2017 13:26:44 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:45 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/texas-christian/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:45 : [INFO/MainProcess] get_all_rosters Line no. 52 :Northwestern
+Jan 08, 2017 13:26:45 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:46 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/northwestern/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:46 : [INFO/MainProcess] get_all_rosters Line no. 52 :Minnesota
+Jan 08, 2017 13:26:46 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:47 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/minnesota/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:47 : [INFO/MainProcess] get_all_rosters Line no. 52 :Marquette
+Jan 08, 2017 13:26:47 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:48 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/marquette/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:48 : [INFO/MainProcess] get_all_rosters Line no. 52 :Southern Methodist
+Jan 08, 2017 13:26:48 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:49 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/southern-methodist/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:49 : [INFO/MainProcess] get_all_rosters Line no. 52 :Arkansas
+Jan 08, 2017 13:26:49 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:50 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/arkansas/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:50 : [INFO/MainProcess] get_all_rosters Line no. 52 :Ohio State
+Jan 08, 2017 13:26:50 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:51 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/ohio-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:51 : [INFO/MainProcess] get_all_rosters Line no. 52 :Providence
+Jan 08, 2017 13:26:51 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:52 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/providence/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:52 : [INFO/MainProcess] get_all_rosters Line no. 52 :Virginia Tech
+Jan 08, 2017 13:26:52 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:53 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/virginia-tech/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:53 : [INFO/MainProcess] get_all_rosters Line no. 52 :Kansas State
+Jan 08, 2017 13:26:53 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:54 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/kansas-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:54 : [INFO/MainProcess] get_all_rosters Line no. 52 :Rhode Island
+Jan 08, 2017 13:26:54 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:55 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/rhode-island/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:55 : [INFO/MainProcess] get_all_rosters Line no. 52 :Dayton
+Jan 08, 2017 13:26:55 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:56 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/dayton/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:56 : [INFO/MainProcess] get_all_rosters Line no. 52 :Texas A&M
+Jan 08, 2017 13:26:56 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:57 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/texas-am/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:57 : [INFO/MainProcess] get_all_rosters Line no. 52 :Southern California
+Jan 08, 2017 13:26:57 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:58 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/southern-california/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:58 : [INFO/MainProcess] get_all_rosters Line no. 52 :Georgetown
+Jan 08, 2017 13:26:58 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:26:59 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/georgetown/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:26:59 : [INFO/MainProcess] get_all_rosters Line no. 52 :Wake Forest
+Jan 08, 2017 13:26:59 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:27:00 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/wake-forest/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:27:00 : [INFO/MainProcess] get_all_rosters Line no. 52 :Illinois
+Jan 08, 2017 13:27:00 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:27:01 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/illinois/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:27:01 : [INFO/MainProcess] get_all_rosters Line no. 52 :North Carolina-Wilmington
+Jan 08, 2017 13:27:01 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:27:02 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/north-carolina-wilmington/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:27:02 : [INFO/MainProcess] get_all_rosters Line no. 52 :Georgia
+Jan 08, 2017 13:27:02 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:27:03 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/georgia/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:27:03 : [INFO/MainProcess] get_all_rosters Line no. 52 :Middle Tennessee
+Jan 08, 2017 13:27:03 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:27:04 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/middle-tennessee/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:31:01 : [INFO/MainProcess] get_all_rosters Line no. 55 :West Virginia
+Jan 08, 2017 13:31:01 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:31:01 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/west-virginia/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:34:25 : [INFO/MainProcess] get_all_rosters Line no. 56 :West Virginia
+Jan 08, 2017 13:34:25 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:34:26 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/west-virginia/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:34:26 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-west-virginia.csv.
+Jan 08, 2017 13:34:26 : [INFO/MainProcess] get_all_rosters Line no. 56 :Virginia
+Jan 08, 2017 13:34:26 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:34:27 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/virginia/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:34:27 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-virginia.csv.
+Jan 08, 2017 13:34:27 : [INFO/MainProcess] get_all_rosters Line no. 56 :Kentucky
+Jan 08, 2017 13:34:27 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:34:28 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/kentucky/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:34:28 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-kentucky.csv.
+Jan 08, 2017 13:34:28 : [INFO/MainProcess] get_all_rosters Line no. 56 :Duke
+Jan 08, 2017 13:34:28 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:34:29 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/duke/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:34:29 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-duke.csv.
+Jan 08, 2017 13:34:29 : [INFO/MainProcess] get_all_rosters Line no. 56 :Kansas
+Jan 08, 2017 13:34:29 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:34:30 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/kansas/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:34:30 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-kansas.csv.
+Jan 08, 2017 13:34:30 : [INFO/MainProcess] get_all_rosters Line no. 56 :North Carolina
+Jan 08, 2017 13:34:30 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:34:31 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/north-carolina/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:34:31 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-north-carolina.csv.
+Jan 08, 2017 13:34:31 : [INFO/MainProcess] get_all_rosters Line no. 56 :UCLA
+Jan 08, 2017 13:34:31 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:34:32 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/ucla/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:34:32 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-ucla.csv.
+Jan 08, 2017 13:34:32 : [INFO/MainProcess] get_all_rosters Line no. 56 :Louisville
+Jan 08, 2017 13:34:32 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:34:33 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/louisville/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:34:33 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-louisville.csv.
+Jan 08, 2017 13:34:33 : [INFO/MainProcess] get_all_rosters Line no. 56 :Villanova
+Jan 08, 2017 13:34:33 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:34:34 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/villanova/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:34:34 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-villanova.csv.
+Jan 08, 2017 13:34:34 : [INFO/MainProcess] get_all_rosters Line no. 56 :Gonzaga
+Jan 08, 2017 13:34:34 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:34:35 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/gonzaga/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:34:35 : [INFO/MainProcess] get_team_roster Line no. 51 :17 rows written to ../data/players-gonzaga.csv.
+Jan 08, 2017 13:34:35 : [INFO/MainProcess] get_all_rosters Line no. 56 :Baylor
+Jan 08, 2017 13:34:35 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:34:36 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/baylor/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:34:36 : [INFO/MainProcess] get_team_roster Line no. 51 :13 rows written to ../data/players-baylor.csv.
+Jan 08, 2017 13:34:36 : [INFO/MainProcess] get_all_rosters Line no. 56 :Purdue
+Jan 08, 2017 13:34:36 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:34:37 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/purdue/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:34:37 : [INFO/MainProcess] get_team_roster Line no. 51 :13 rows written to ../data/players-purdue.csv.
+Jan 08, 2017 13:34:37 : [INFO/MainProcess] get_all_rosters Line no. 56 :Indiana
+Jan 08, 2017 13:34:37 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:34:38 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/indiana/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:34:38 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-indiana.csv.
+Jan 08, 2017 13:34:38 : [INFO/MainProcess] get_all_rosters Line no. 56 :Cincinnati
+Jan 08, 2017 13:34:38 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:34:39 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/cincinnati/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:34:39 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-cincinnati.csv.
+Jan 08, 2017 13:34:39 : [INFO/MainProcess] get_all_rosters Line no. 56 :Butler
+Jan 08, 2017 13:34:39 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:34:40 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/butler/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:34:40 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-butler.csv.
+Jan 08, 2017 13:34:40 : [INFO/MainProcess] get_all_rosters Line no. 56 :Notre Dame
+Jan 08, 2017 13:34:40 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:34:41 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/notre-dame/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:34:41 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-notre-dame.csv.
+Jan 08, 2017 13:34:41 : [INFO/MainProcess] get_all_rosters Line no. 56 :Wichita State
+Jan 08, 2017 13:34:41 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:34:42 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/wichita-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:34:42 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-wichita-state.csv.
+Jan 08, 2017 13:34:42 : [INFO/MainProcess] get_all_rosters Line no. 56 :Florida
+Jan 08, 2017 13:34:42 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:34:43 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/florida/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:34:43 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-florida.csv.
+Jan 08, 2017 13:34:43 : [INFO/MainProcess] get_all_rosters Line no. 56 :Iowa State
+Jan 08, 2017 13:34:43 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:34:44 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/iowa-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:34:44 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-iowa-state.csv.
+Jan 08, 2017 13:34:44 : [INFO/MainProcess] get_all_rosters Line no. 56 :Wisconsin
+Jan 08, 2017 13:34:44 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:34:45 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/wisconsin/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:34:45 : [INFO/MainProcess] get_team_roster Line no. 51 :17 rows written to ../data/players-wisconsin.csv.
+Jan 08, 2017 13:34:45 : [INFO/MainProcess] get_all_rosters Line no. 56 :Miami (FL)
+Jan 08, 2017 13:34:45 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:34:46 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/miami-fl/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:34:46 : [INFO/MainProcess] get_team_roster Line no. 51 :12 rows written to ../data/players-miami-fl.csv.
+Jan 08, 2017 13:34:46 : [INFO/MainProcess] get_all_rosters Line no. 56 :Florida State
+Jan 08, 2017 13:34:46 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:34:47 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/florida-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:34:47 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-florida-state.csv.
+Jan 08, 2017 13:34:47 : [INFO/MainProcess] get_all_rosters Line no. 56 :Creighton
+Jan 08, 2017 13:34:47 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:34:48 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/creighton/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:34:48 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-creighton.csv.
+Jan 08, 2017 13:34:48 : [INFO/MainProcess] get_all_rosters Line no. 56 :South Carolina
+Jan 08, 2017 13:34:48 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:34:49 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/south-carolina/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:34:49 : [INFO/MainProcess] get_team_roster Line no. 51 :18 rows written to ../data/players-south-carolina.csv.
+Jan 08, 2017 13:34:49 : [INFO/MainProcess] get_all_rosters Line no. 56 :Michigan
+Jan 08, 2017 13:34:49 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:34:50 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/michigan/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:34:50 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-michigan.csv.
+Jan 08, 2017 13:34:50 : [INFO/MainProcess] get_all_rosters Line no. 56 :Syracuse
+Jan 08, 2017 13:34:50 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:34:51 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/syracuse/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:34:51 : [INFO/MainProcess] get_team_roster Line no. 51 :19 rows written to ../data/players-syracuse.csv.
+Jan 08, 2017 13:34:51 : [INFO/MainProcess] get_all_rosters Line no. 56 :Xavier
+Jan 08, 2017 13:34:51 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:34:52 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/xavier/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:34:52 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-xavier.csv.
+Jan 08, 2017 13:34:52 : [INFO/MainProcess] get_all_rosters Line no. 56 :Texas Tech
+Jan 08, 2017 13:34:52 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:34:53 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/texas-tech/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:34:53 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-texas-tech.csv.
+Jan 08, 2017 13:34:53 : [INFO/MainProcess] get_all_rosters Line no. 56 :Houston
+Jan 08, 2017 13:34:53 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:34:54 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/houston/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:34:54 : [INFO/MainProcess] get_team_roster Line no. 51 :13 rows written to ../data/players-houston.csv.
+Jan 08, 2017 13:34:54 : [INFO/MainProcess] get_all_rosters Line no. 56 :Oklahoma State
+Jan 08, 2017 13:34:54 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:34:55 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/oklahoma-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:34:55 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-oklahoma-state.csv.
+Jan 08, 2017 13:34:55 : [INFO/MainProcess] get_all_rosters Line no. 56 :Saint Mary's (CA)
+Jan 08, 2017 13:34:55 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:34:56 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/saint-marys-ca/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:34:56 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-saint-marys-ca.csv.
+Jan 08, 2017 13:34:56 : [INFO/MainProcess] get_all_rosters Line no. 56 :Oregon
+Jan 08, 2017 13:34:56 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:34:57 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/oregon/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:34:57 : [INFO/MainProcess] get_team_roster Line no. 51 :13 rows written to ../data/players-oregon.csv.
+Jan 08, 2017 13:34:57 : [INFO/MainProcess] get_all_rosters Line no. 56 :Arizona
+Jan 08, 2017 13:34:57 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:34:58 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/arizona/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:34:58 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-arizona.csv.
+Jan 08, 2017 13:34:58 : [INFO/MainProcess] get_all_rosters Line no. 56 :Clemson
+Jan 08, 2017 13:34:58 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:34:59 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/clemson/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:34:59 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-clemson.csv.
+Jan 08, 2017 13:34:59 : [INFO/MainProcess] get_all_rosters Line no. 56 :Texas Christian
+Jan 08, 2017 13:34:59 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:00 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/texas-christian/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:00 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-texas-christian.csv.
+Jan 08, 2017 13:35:00 : [INFO/MainProcess] get_all_rosters Line no. 56 :Northwestern
+Jan 08, 2017 13:35:00 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:01 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/northwestern/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:01 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-northwestern.csv.
+Jan 08, 2017 13:35:01 : [INFO/MainProcess] get_all_rosters Line no. 56 :Minnesota
+Jan 08, 2017 13:35:01 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:02 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/minnesota/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:02 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-minnesota.csv.
+Jan 08, 2017 13:35:02 : [INFO/MainProcess] get_all_rosters Line no. 56 :Marquette
+Jan 08, 2017 13:35:02 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:03 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/marquette/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:03 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-marquette.csv.
+Jan 08, 2017 13:35:03 : [INFO/MainProcess] get_all_rosters Line no. 56 :Southern Methodist
+Jan 08, 2017 13:35:03 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:04 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/southern-methodist/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:04 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-southern-methodist.csv.
+Jan 08, 2017 13:35:04 : [INFO/MainProcess] get_all_rosters Line no. 56 :Arkansas
+Jan 08, 2017 13:35:04 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:05 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/arkansas/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:05 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-arkansas.csv.
+Jan 08, 2017 13:35:05 : [INFO/MainProcess] get_all_rosters Line no. 56 :Ohio State
+Jan 08, 2017 13:35:05 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:06 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/ohio-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:06 : [INFO/MainProcess] get_team_roster Line no. 51 :13 rows written to ../data/players-ohio-state.csv.
+Jan 08, 2017 13:35:06 : [INFO/MainProcess] get_all_rosters Line no. 56 :Providence
+Jan 08, 2017 13:35:06 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:07 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/providence/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:07 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-providence.csv.
+Jan 08, 2017 13:35:07 : [INFO/MainProcess] get_all_rosters Line no. 56 :Virginia Tech
+Jan 08, 2017 13:35:07 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:08 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/virginia-tech/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:08 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-virginia-tech.csv.
+Jan 08, 2017 13:35:08 : [INFO/MainProcess] get_all_rosters Line no. 56 :Kansas State
+Jan 08, 2017 13:35:08 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:09 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/kansas-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:09 : [INFO/MainProcess] get_team_roster Line no. 51 :17 rows written to ../data/players-kansas-state.csv.
+Jan 08, 2017 13:35:09 : [INFO/MainProcess] get_all_rosters Line no. 56 :Rhode Island
+Jan 08, 2017 13:35:09 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:10 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/rhode-island/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:10 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-rhode-island.csv.
+Jan 08, 2017 13:35:10 : [INFO/MainProcess] get_all_rosters Line no. 56 :Dayton
+Jan 08, 2017 13:35:10 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:11 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/dayton/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:11 : [INFO/MainProcess] get_team_roster Line no. 51 :18 rows written to ../data/players-dayton.csv.
+Jan 08, 2017 13:35:11 : [INFO/MainProcess] get_all_rosters Line no. 56 :Texas A&M
+Jan 08, 2017 13:35:11 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:12 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/texas-am/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:12 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-texas-am.csv.
+Jan 08, 2017 13:35:12 : [INFO/MainProcess] get_all_rosters Line no. 56 :Southern California
+Jan 08, 2017 13:35:12 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:13 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/southern-california/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:13 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-southern-california.csv.
+Jan 08, 2017 13:35:13 : [INFO/MainProcess] get_all_rosters Line no. 56 :Georgetown
+Jan 08, 2017 13:35:13 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:14 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/georgetown/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:14 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-georgetown.csv.
+Jan 08, 2017 13:35:14 : [INFO/MainProcess] get_all_rosters Line no. 56 :Wake Forest
+Jan 08, 2017 13:35:14 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:15 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/wake-forest/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:15 : [INFO/MainProcess] get_team_roster Line no. 51 :17 rows written to ../data/players-wake-forest.csv.
+Jan 08, 2017 13:35:15 : [INFO/MainProcess] get_all_rosters Line no. 56 :Illinois
+Jan 08, 2017 13:35:15 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:16 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/illinois/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:16 : [INFO/MainProcess] get_team_roster Line no. 51 :17 rows written to ../data/players-illinois.csv.
+Jan 08, 2017 13:35:16 : [INFO/MainProcess] get_all_rosters Line no. 56 :North Carolina-Wilmington
+Jan 08, 2017 13:35:16 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:17 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/north-carolina-wilmington/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:17 : [INFO/MainProcess] get_team_roster Line no. 51 :13 rows written to ../data/players-north-carolina-wilmington.csv.
+Jan 08, 2017 13:35:17 : [INFO/MainProcess] get_all_rosters Line no. 56 :Georgia
+Jan 08, 2017 13:35:17 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:18 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/georgia/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:18 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-georgia.csv.
+Jan 08, 2017 13:35:18 : [INFO/MainProcess] get_all_rosters Line no. 56 :Middle Tennessee
+Jan 08, 2017 13:35:18 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:19 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/middle-tennessee/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:19 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-middle-tennessee.csv.
+Jan 08, 2017 13:35:19 : [INFO/MainProcess] get_all_rosters Line no. 56 :Oklahoma
+Jan 08, 2017 13:35:19 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:20 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/oklahoma/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:20 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-oklahoma.csv.
+Jan 08, 2017 13:35:20 : [INFO/MainProcess] get_all_rosters Line no. 56 :Seton Hall
+Jan 08, 2017 13:35:20 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:21 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/seton-hall/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:21 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-seton-hall.csv.
+Jan 08, 2017 13:35:21 : [INFO/MainProcess] get_all_rosters Line no. 56 :University of California
+Jan 08, 2017 13:35:21 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:22 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/california/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:22 : [INFO/MainProcess] get_team_roster Line no. 51 :17 rows written to ../data/players-california.csv.
+Jan 08, 2017 13:35:22 : [INFO/MainProcess] get_all_rosters Line no. 56 :Colorado
+Jan 08, 2017 13:35:22 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:23 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/colorado/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:23 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-colorado.csv.
+Jan 08, 2017 13:35:23 : [INFO/MainProcess] get_all_rosters Line no. 56 :Auburn
+Jan 08, 2017 13:35:23 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:24 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/auburn/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:24 : [INFO/MainProcess] get_team_roster Line no. 51 :20 rows written to ../data/players-auburn.csv.
+Jan 08, 2017 13:35:24 : [INFO/MainProcess] get_all_rosters Line no. 56 :Michigan State
+Jan 08, 2017 13:35:24 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:25 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/michigan-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:25 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-michigan-state.csv.
+Jan 08, 2017 13:35:25 : [INFO/MainProcess] get_all_rosters Line no. 56 :Tennessee
+Jan 08, 2017 13:35:25 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:26 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/tennessee/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:26 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-tennessee.csv.
+Jan 08, 2017 13:35:26 : [INFO/MainProcess] get_all_rosters Line no. 56 :Virginia Commonwealth
+Jan 08, 2017 13:35:26 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:27 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/virginia-commonwealth/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:27 : [INFO/MainProcess] get_team_roster Line no. 51 :13 rows written to ../data/players-virginia-commonwealth.csv.
+Jan 08, 2017 13:35:27 : [INFO/MainProcess] get_all_rosters Line no. 56 :Brigham Young
+Jan 08, 2017 13:35:27 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:28 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/brigham-young/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:28 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-brigham-young.csv.
+Jan 08, 2017 13:35:28 : [INFO/MainProcess] get_all_rosters Line no. 56 :Stanford
+Jan 08, 2017 13:35:28 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:29 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/stanford/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:29 : [INFO/MainProcess] get_team_roster Line no. 51 :17 rows written to ../data/players-stanford.csv.
+Jan 08, 2017 13:35:29 : [INFO/MainProcess] get_all_rosters Line no. 56 :Central Florida
+Jan 08, 2017 13:35:29 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:30 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/central-florida/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:30 : [INFO/MainProcess] get_team_roster Line no. 51 :17 rows written to ../data/players-central-florida.csv.
+Jan 08, 2017 13:35:30 : [INFO/MainProcess] get_all_rosters Line no. 56 :Utah
+Jan 08, 2017 13:35:30 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:31 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/utah/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:31 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-utah.csv.
+Jan 08, 2017 13:35:31 : [INFO/MainProcess] get_all_rosters Line no. 56 :Temple
+Jan 08, 2017 13:35:31 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:32 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/temple/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:32 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-temple.csv.
+Jan 08, 2017 13:35:32 : [INFO/MainProcess] get_all_rosters Line no. 56 :Pittsburgh
+Jan 08, 2017 13:35:32 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:33 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/pittsburgh/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:33 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-pittsburgh.csv.
+Jan 08, 2017 13:35:33 : [INFO/MainProcess] get_all_rosters Line no. 56 :East Tennessee State
+Jan 08, 2017 13:35:33 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:34 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/east-tennessee-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:34 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-east-tennessee-state.csv.
+Jan 08, 2017 13:35:34 : [INFO/MainProcess] get_all_rosters Line no. 56 :Iowa
+Jan 08, 2017 13:35:34 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:35 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/iowa/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:35 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-iowa.csv.
+Jan 08, 2017 13:35:35 : [INFO/MainProcess] get_all_rosters Line no. 56 :Nevada
+Jan 08, 2017 13:35:35 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:36 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/nevada/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:36 : [INFO/MainProcess] get_team_roster Line no. 51 :17 rows written to ../data/players-nevada.csv.
+Jan 08, 2017 13:35:36 : [INFO/MainProcess] get_all_rosters Line no. 56 :Davidson
+Jan 08, 2017 13:35:36 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:37 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/davidson/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:37 : [INFO/MainProcess] get_team_roster Line no. 51 :17 rows written to ../data/players-davidson.csv.
+Jan 08, 2017 13:35:37 : [INFO/MainProcess] get_all_rosters Line no. 56 :North Carolina State
+Jan 08, 2017 13:35:37 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:38 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/north-carolina-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:38 : [INFO/MainProcess] get_team_roster Line no. 51 :17 rows written to ../data/players-north-carolina-state.csv.
+Jan 08, 2017 13:35:38 : [INFO/MainProcess] get_all_rosters Line no. 56 :Illinois State
+Jan 08, 2017 13:35:38 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:39 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/illinois-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:39 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-illinois-state.csv.
+Jan 08, 2017 13:35:39 : [INFO/MainProcess] get_all_rosters Line no. 56 :Maryland
+Jan 08, 2017 13:35:39 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:40 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/maryland/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:40 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-maryland.csv.
+Jan 08, 2017 13:35:40 : [INFO/MainProcess] get_all_rosters Line no. 56 :Vanderbilt
+Jan 08, 2017 13:35:40 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:41 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/vanderbilt/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:41 : [INFO/MainProcess] get_team_roster Line no. 51 :12 rows written to ../data/players-vanderbilt.csv.
+Jan 08, 2017 13:35:41 : [INFO/MainProcess] get_all_rosters Line no. 56 :Oakland
+Jan 08, 2017 13:35:41 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:42 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/oakland/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:42 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-oakland.csv.
+Jan 08, 2017 13:35:42 : [INFO/MainProcess] get_all_rosters Line no. 56 :Arkansas State
+Jan 08, 2017 13:35:42 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:43 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/arkansas-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:43 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-arkansas-state.csv.
+Jan 08, 2017 13:35:43 : [INFO/MainProcess] get_all_rosters Line no. 56 :St. Bonaventure
+Jan 08, 2017 13:35:43 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:44 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/st-bonaventure/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:44 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-st-bonaventure.csv.
+Jan 08, 2017 13:35:44 : [INFO/MainProcess] get_all_rosters Line no. 56 :IPFW
+Jan 08, 2017 13:35:44 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:45 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/ipfw/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:45 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-ipfw.csv.
+Jan 08, 2017 13:35:45 : [INFO/MainProcess] get_all_rosters Line no. 56 :Monmouth
+Jan 08, 2017 13:35:45 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:46 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/monmouth/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:46 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-monmouth.csv.
+Jan 08, 2017 13:35:46 : [INFO/MainProcess] get_all_rosters Line no. 56 :Memphis
+Jan 08, 2017 13:35:46 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:47 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/memphis/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:47 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-memphis.csv.
+Jan 08, 2017 13:35:47 : [INFO/MainProcess] get_all_rosters Line no. 56 :Nebraska
+Jan 08, 2017 13:35:47 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:48 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/nebraska/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:48 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-nebraska.csv.
+Jan 08, 2017 13:35:48 : [INFO/MainProcess] get_all_rosters Line no. 56 :Mississippi
+Jan 08, 2017 13:35:48 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:49 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/mississippi/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:49 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-mississippi.csv.
+Jan 08, 2017 13:35:49 : [INFO/MainProcess] get_all_rosters Line no. 56 :Louisiana Tech
+Jan 08, 2017 13:35:49 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:50 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/louisiana-tech/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:50 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-louisiana-tech.csv.
+Jan 08, 2017 13:35:50 : [INFO/MainProcess] get_all_rosters Line no. 56 :Louisiana State
+Jan 08, 2017 13:35:50 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:51 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/louisiana-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:51 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-louisiana-state.csv.
+Jan 08, 2017 13:35:51 : [INFO/MainProcess] get_all_rosters Line no. 56 :Texas
+Jan 08, 2017 13:35:51 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:52 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/texas/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:52 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-texas.csv.
+Jan 08, 2017 13:35:52 : [INFO/MainProcess] get_all_rosters Line no. 56 :Rutgers
+Jan 08, 2017 13:35:52 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:53 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/rutgers/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:53 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-rutgers.csv.
+Jan 08, 2017 13:35:53 : [INFO/MainProcess] get_all_rosters Line no. 56 :Valparaiso
+Jan 08, 2017 13:35:53 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:54 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/valparaiso/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:54 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-valparaiso.csv.
+Jan 08, 2017 13:35:54 : [INFO/MainProcess] get_all_rosters Line no. 56 :Texas-Arlington
+Jan 08, 2017 13:35:54 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:55 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/texas-arlington/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:55 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-texas-arlington.csv.
+Jan 08, 2017 13:35:55 : [INFO/MainProcess] get_all_rosters Line no. 56 :Chattanooga
+Jan 08, 2017 13:35:55 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:56 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/chattanooga/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:56 : [INFO/MainProcess] get_team_roster Line no. 51 :17 rows written to ../data/players-chattanooga.csv.
+Jan 08, 2017 13:35:56 : [INFO/MainProcess] get_all_rosters Line no. 56 :Alabama
+Jan 08, 2017 13:35:56 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:57 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/alabama/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:57 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-alabama.csv.
+Jan 08, 2017 13:35:57 : [INFO/MainProcess] get_all_rosters Line no. 56 :Penn State
+Jan 08, 2017 13:35:57 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:58 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/penn-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:58 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-penn-state.csv.
+Jan 08, 2017 13:35:58 : [INFO/MainProcess] get_all_rosters Line no. 56 :Lehigh
+Jan 08, 2017 13:35:58 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:35:59 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/lehigh/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:35:59 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-lehigh.csv.
+Jan 08, 2017 13:35:59 : [INFO/MainProcess] get_all_rosters Line no. 56 :Northern Iowa
+Jan 08, 2017 13:35:59 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:00 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/northern-iowa/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:00 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-northern-iowa.csv.
+Jan 08, 2017 13:36:00 : [INFO/MainProcess] get_all_rosters Line no. 56 :Yale
+Jan 08, 2017 13:36:00 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:01 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/yale/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:01 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-yale.csv.
+Jan 08, 2017 13:36:01 : [INFO/MainProcess] get_all_rosters Line no. 56 :Massachusetts
+Jan 08, 2017 13:36:01 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:02 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/massachusetts/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:02 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-massachusetts.csv.
+Jan 08, 2017 13:36:02 : [INFO/MainProcess] get_all_rosters Line no. 56 :Washington
+Jan 08, 2017 13:36:02 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:03 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/washington/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:03 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-washington.csv.
+Jan 08, 2017 13:36:03 : [INFO/MainProcess] get_all_rosters Line no. 56 :La Salle
+Jan 08, 2017 13:36:03 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:04 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/la-salle/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:04 : [INFO/MainProcess] get_team_roster Line no. 51 :13 rows written to ../data/players-la-salle.csv.
+Jan 08, 2017 13:36:04 : [INFO/MainProcess] get_all_rosters Line no. 56 :Loyola (IL)
+Jan 08, 2017 13:36:04 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:05 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/loyola-il/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:05 : [INFO/MainProcess] get_team_roster Line no. 51 :18 rows written to ../data/players-loyola-il.csv.
+Jan 08, 2017 13:36:05 : [INFO/MainProcess] get_all_rosters Line no. 56 :Boise State
+Jan 08, 2017 13:36:05 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:06 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/boise-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:06 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-boise-state.csv.
+Jan 08, 2017 13:36:06 : [INFO/MainProcess] get_all_rosters Line no. 56 :Akron
+Jan 08, 2017 13:36:06 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:07 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/akron/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:07 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-akron.csv.
+Jan 08, 2017 13:36:07 : [INFO/MainProcess] get_all_rosters Line no. 56 :Evansville
+Jan 08, 2017 13:36:07 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:08 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/evansville/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:08 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-evansville.csv.
+Jan 08, 2017 13:36:08 : [INFO/MainProcess] get_all_rosters Line no. 56 :Connecticut
+Jan 08, 2017 13:36:08 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:09 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/connecticut/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:09 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-connecticut.csv.
+Jan 08, 2017 13:36:09 : [INFO/MainProcess] get_all_rosters Line no. 56 :Old Dominion
+Jan 08, 2017 13:36:09 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:10 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/old-dominion/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:10 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-old-dominion.csv.
+Jan 08, 2017 13:36:10 : [INFO/MainProcess] get_all_rosters Line no. 56 :Kent State
+Jan 08, 2017 13:36:10 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:11 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/kent-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:11 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-kent-state.csv.
+Jan 08, 2017 13:36:11 : [INFO/MainProcess] get_all_rosters Line no. 56 :George Mason
+Jan 08, 2017 13:36:11 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:12 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/george-mason/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:12 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-george-mason.csv.
+Jan 08, 2017 13:36:12 : [INFO/MainProcess] get_all_rosters Line no. 56 :Ohio
+Jan 08, 2017 13:36:12 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:13 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/ohio/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:13 : [INFO/MainProcess] get_team_roster Line no. 51 :17 rows written to ../data/players-ohio.csv.
+Jan 08, 2017 13:36:13 : [INFO/MainProcess] get_all_rosters Line no. 56 :College of Charleston
+Jan 08, 2017 13:36:13 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:14 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/college-of-charleston/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:14 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-college-of-charleston.csv.
+Jan 08, 2017 13:36:14 : [INFO/MainProcess] get_all_rosters Line no. 56 :Colorado State
+Jan 08, 2017 13:36:14 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:15 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/colorado-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:15 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-colorado-state.csv.
+Jan 08, 2017 13:36:15 : [INFO/MainProcess] get_all_rosters Line no. 56 :San Diego State
+Jan 08, 2017 13:36:15 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:16 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/san-diego-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:17 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-san-diego-state.csv.
+Jan 08, 2017 13:36:17 : [INFO/MainProcess] get_all_rosters Line no. 56 :Bucknell
+Jan 08, 2017 13:36:17 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:17 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/bucknell/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:17 : [INFO/MainProcess] get_team_roster Line no. 51 :13 rows written to ../data/players-bucknell.csv.
+Jan 08, 2017 13:36:17 : [INFO/MainProcess] get_all_rosters Line no. 56 :Pennsylvania
+Jan 08, 2017 13:36:17 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:18 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/pennsylvania/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:18 : [INFO/MainProcess] get_team_roster Line no. 51 :19 rows written to ../data/players-pennsylvania.csv.
+Jan 08, 2017 13:36:18 : [INFO/MainProcess] get_all_rosters Line no. 56 :Vermont
+Jan 08, 2017 13:36:18 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:19 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/vermont/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:19 : [INFO/MainProcess] get_team_roster Line no. 51 :17 rows written to ../data/players-vermont.csv.
+Jan 08, 2017 13:36:19 : [INFO/MainProcess] get_all_rosters Line no. 56 :Missouri
+Jan 08, 2017 13:36:19 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:20 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/missouri/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:20 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-missouri.csv.
+Jan 08, 2017 13:36:20 : [INFO/MainProcess] get_all_rosters Line no. 56 :Missouri State
+Jan 08, 2017 13:36:20 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:21 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/missouri-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:21 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-missouri-state.csv.
+Jan 08, 2017 13:36:21 : [INFO/MainProcess] get_all_rosters Line no. 56 :Florida Gulf Coast
+Jan 08, 2017 13:36:21 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:22 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/florida-gulf-coast/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:22 : [INFO/MainProcess] get_team_roster Line no. 51 :17 rows written to ../data/players-florida-gulf-coast.csv.
+Jan 08, 2017 13:36:22 : [INFO/MainProcess] get_all_rosters Line no. 56 :Cal State Bakersfield
+Jan 08, 2017 13:36:22 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:23 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/cal-state-bakersfield/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:23 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-cal-state-bakersfield.csv.
+Jan 08, 2017 13:36:23 : [INFO/MainProcess] get_all_rosters Line no. 56 :Utah State
+Jan 08, 2017 13:36:23 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:24 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/utah-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:24 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-utah-state.csv.
+Jan 08, 2017 13:36:24 : [INFO/MainProcess] get_all_rosters Line no. 56 :DePaul
+Jan 08, 2017 13:36:24 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:25 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/depaul/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:25 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-depaul.csv.
+Jan 08, 2017 13:36:25 : [INFO/MainProcess] get_all_rosters Line no. 56 :Mississippi State
+Jan 08, 2017 13:36:25 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:26 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/mississippi-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:26 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-mississippi-state.csv.
+Jan 08, 2017 13:36:26 : [INFO/MainProcess] get_all_rosters Line no. 56 :Rice
+Jan 08, 2017 13:36:26 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:27 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/rice/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:27 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-rice.csv.
+Jan 08, 2017 13:36:27 : [INFO/MainProcess] get_all_rosters Line no. 56 :Iona
+Jan 08, 2017 13:36:27 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:28 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/iona/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:28 : [INFO/MainProcess] get_team_roster Line no. 51 :12 rows written to ../data/players-iona.csv.
+Jan 08, 2017 13:36:28 : [INFO/MainProcess] get_all_rosters Line no. 56 :Richmond
+Jan 08, 2017 13:36:28 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:29 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/richmond/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:29 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-richmond.csv.
+Jan 08, 2017 13:36:29 : [INFO/MainProcess] get_all_rosters Line no. 56 :Wyoming
+Jan 08, 2017 13:36:29 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:30 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/wyoming/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:30 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-wyoming.csv.
+Jan 08, 2017 13:36:30 : [INFO/MainProcess] get_all_rosters Line no. 56 :Louisiana-Lafayette
+Jan 08, 2017 13:36:30 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:31 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/louisiana-lafayette/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:31 : [INFO/MainProcess] get_team_roster Line no. 51 :17 rows written to ../data/players-louisiana-lafayette.csv.
+Jan 08, 2017 13:36:31 : [INFO/MainProcess] get_all_rosters Line no. 56 :New Mexico State
+Jan 08, 2017 13:36:31 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:32 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/new-mexico-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:32 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-new-mexico-state.csv.
+Jan 08, 2017 13:36:32 : [INFO/MainProcess] get_all_rosters Line no. 56 :George Washington
+Jan 08, 2017 13:36:32 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:33 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/george-washington/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:33 : [INFO/MainProcess] get_team_roster Line no. 51 :13 rows written to ../data/players-george-washington.csv.
+Jan 08, 2017 13:36:33 : [INFO/MainProcess] get_all_rosters Line no. 56 :Alabama-Birmingham
+Jan 08, 2017 13:36:33 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:34 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/alabama-birmingham/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:34 : [INFO/MainProcess] get_team_roster Line no. 51 :13 rows written to ../data/players-alabama-birmingham.csv.
+Jan 08, 2017 13:36:34 : [INFO/MainProcess] get_all_rosters Line no. 56 :St. John's (NY)
+Jan 08, 2017 13:36:34 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:35 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/st-johns-ny/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:35 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-st-johns-ny.csv.
+Jan 08, 2017 13:36:35 : [INFO/MainProcess] get_all_rosters Line no. 56 :Tennessee State
+Jan 08, 2017 13:36:35 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:36 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/tennessee-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:36 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-tennessee-state.csv.
+Jan 08, 2017 13:36:36 : [INFO/MainProcess] get_all_rosters Line no. 56 :Saint Joseph's
+Jan 08, 2017 13:36:36 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:37 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/saint-josephs/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:37 : [INFO/MainProcess] get_team_roster Line no. 51 :17 rows written to ../data/players-saint-josephs.csv.
+Jan 08, 2017 13:36:37 : [INFO/MainProcess] get_all_rosters Line no. 56 :Georgia Tech
+Jan 08, 2017 13:36:37 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:38 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/georgia-tech/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:38 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-georgia-tech.csv.
+Jan 08, 2017 13:36:38 : [INFO/MainProcess] get_all_rosters Line no. 56 :Northern Kentucky
+Jan 08, 2017 13:36:38 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:39 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/northern-kentucky/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:39 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-northern-kentucky.csv.
+Jan 08, 2017 13:36:39 : [INFO/MainProcess] get_all_rosters Line no. 56 :Arizona State
+Jan 08, 2017 13:36:39 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:40 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/arizona-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:40 : [INFO/MainProcess] get_team_roster Line no. 51 :17 rows written to ../data/players-arizona-state.csv.
+Jan 08, 2017 13:36:40 : [INFO/MainProcess] get_all_rosters Line no. 56 :North Carolina-Greensboro
+Jan 08, 2017 13:36:40 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:41 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/north-carolina-greensboro/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:41 : [INFO/MainProcess] get_team_roster Line no. 51 :17 rows written to ../data/players-north-carolina-greensboro.csv.
+Jan 08, 2017 13:36:41 : [INFO/MainProcess] get_all_rosters Line no. 56 :New Mexico
+Jan 08, 2017 13:36:41 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:42 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/new-mexico/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:42 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-new-mexico.csv.
+Jan 08, 2017 13:36:42 : [INFO/MainProcess] get_all_rosters Line no. 56 :Winthrop
+Jan 08, 2017 13:36:42 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:43 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/winthrop/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:43 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-winthrop.csv.
+Jan 08, 2017 13:36:43 : [INFO/MainProcess] get_all_rosters Line no. 56 :San Francisco
+Jan 08, 2017 13:36:43 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:44 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/san-francisco/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:44 : [INFO/MainProcess] get_team_roster Line no. 51 :17 rows written to ../data/players-san-francisco.csv.
+Jan 08, 2017 13:36:44 : [INFO/MainProcess] get_all_rosters Line no. 56 :Northeastern
+Jan 08, 2017 13:36:44 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:45 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/northeastern/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:45 : [INFO/MainProcess] get_team_roster Line no. 51 :12 rows written to ../data/players-northeastern.csv.
+Jan 08, 2017 13:36:45 : [INFO/MainProcess] get_all_rosters Line no. 56 :Toledo
+Jan 08, 2017 13:36:45 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:46 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/toledo/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:46 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-toledo.csv.
+Jan 08, 2017 13:36:46 : [INFO/MainProcess] get_all_rosters Line no. 56 :Indiana State
+Jan 08, 2017 13:36:46 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:47 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/indiana-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:47 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-indiana-state.csv.
+Jan 08, 2017 13:36:47 : [INFO/MainProcess] get_all_rosters Line no. 56 :Towson
+Jan 08, 2017 13:36:47 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:48 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/towson/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:48 : [INFO/MainProcess] get_team_roster Line no. 51 :13 rows written to ../data/players-towson.csv.
+Jan 08, 2017 13:36:48 : [INFO/MainProcess] get_all_rosters Line no. 56 :Portland
+Jan 08, 2017 13:36:48 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:49 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/portland/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:49 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-portland.csv.
+Jan 08, 2017 13:36:49 : [INFO/MainProcess] get_all_rosters Line no. 56 :Harvard
+Jan 08, 2017 13:36:49 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:50 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/harvard/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:50 : [INFO/MainProcess] get_team_roster Line no. 51 :20 rows written to ../data/players-harvard.csv.
+Jan 08, 2017 13:36:50 : [INFO/MainProcess] get_all_rosters Line no. 56 :Marshall
+Jan 08, 2017 13:36:50 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:51 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/marshall/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:51 : [INFO/MainProcess] get_team_roster Line no. 51 :17 rows written to ../data/players-marshall.csv.
+Jan 08, 2017 13:36:51 : [INFO/MainProcess] get_all_rosters Line no. 56 :Samford
+Jan 08, 2017 13:36:51 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:52 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/samford/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:52 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-samford.csv.
+Jan 08, 2017 13:36:52 : [INFO/MainProcess] get_all_rosters Line no. 56 :Tulsa
+Jan 08, 2017 13:36:52 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:53 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/tulsa/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:53 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-tulsa.csv.
+Jan 08, 2017 13:36:53 : [INFO/MainProcess] get_all_rosters Line no. 56 :Loyola Marymount
+Jan 08, 2017 13:36:53 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:54 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/loyola-marymount/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:54 : [INFO/MainProcess] get_team_roster Line no. 51 :13 rows written to ../data/players-loyola-marymount.csv.
+Jan 08, 2017 13:36:54 : [INFO/MainProcess] get_all_rosters Line no. 56 :Georgia State
+Jan 08, 2017 13:36:54 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:55 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/georgia-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:55 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-georgia-state.csv.
+Jan 08, 2017 13:36:55 : [INFO/MainProcess] get_all_rosters Line no. 56 :Air Force
+Jan 08, 2017 13:36:55 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:56 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/air-force/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:56 : [INFO/MainProcess] get_team_roster Line no. 51 :23 rows written to ../data/players-air-force.csv.
+Jan 08, 2017 13:36:56 : [INFO/MainProcess] get_all_rosters Line no. 56 :Albany (NY)
+Jan 08, 2017 13:36:56 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:57 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/albany-ny/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:57 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-albany-ny.csv.
+Jan 08, 2017 13:36:57 : [INFO/MainProcess] get_all_rosters Line no. 56 :Army
+Jan 08, 2017 13:36:57 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:58 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/army/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:58 : [INFO/MainProcess] get_team_roster Line no. 51 :26 rows written to ../data/players-army.csv.
+Jan 08, 2017 13:36:58 : [INFO/MainProcess] get_all_rosters Line no. 56 :East Carolina
+Jan 08, 2017 13:36:58 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:36:59 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/east-carolina/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:36:59 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-east-carolina.csv.
+Jan 08, 2017 13:36:59 : [INFO/MainProcess] get_all_rosters Line no. 56 :Belmont
+Jan 08, 2017 13:36:59 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:00 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/belmont/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:00 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-belmont.csv.
+Jan 08, 2017 13:37:00 : [INFO/MainProcess] get_all_rosters Line no. 56 :Grand Canyon
+Jan 08, 2017 13:37:00 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:01 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/grand-canyon/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:01 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-grand-canyon.csv.
+Jan 08, 2017 13:37:01 : [INFO/MainProcess] get_all_rosters Line no. 56 :South Dakota
+Jan 08, 2017 13:37:01 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:02 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/south-dakota/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:02 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-south-dakota.csv.
+Jan 08, 2017 13:37:02 : [INFO/MainProcess] get_all_rosters Line no. 56 :Utah Valley
+Jan 08, 2017 13:37:02 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:03 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/utah-valley/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:03 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-utah-valley.csv.
+Jan 08, 2017 13:37:03 : [INFO/MainProcess] get_all_rosters Line no. 56 :North Carolina Central
+Jan 08, 2017 13:37:03 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:04 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/north-carolina-central/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:04 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-north-carolina-central.csv.
+Jan 08, 2017 13:37:04 : [INFO/MainProcess] get_all_rosters Line no. 56 :Princeton
+Jan 08, 2017 13:37:04 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:05 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/princeton/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:05 : [INFO/MainProcess] get_team_roster Line no. 51 :20 rows written to ../data/players-princeton.csv.
+Jan 08, 2017 13:37:05 : [INFO/MainProcess] get_all_rosters Line no. 56 :Buffalo
+Jan 08, 2017 13:37:05 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:06 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/buffalo/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:06 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-buffalo.csv.
+Jan 08, 2017 13:37:06 : [INFO/MainProcess] get_all_rosters Line no. 56 :North Carolina-Asheville
+Jan 08, 2017 13:37:06 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:07 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/north-carolina-asheville/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:07 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-north-carolina-asheville.csv.
+Jan 08, 2017 13:37:07 : [INFO/MainProcess] get_all_rosters Line no. 56 :Montana
+Jan 08, 2017 13:37:07 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:08 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/montana/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:08 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-montana.csv.
+Jan 08, 2017 13:37:08 : [INFO/MainProcess] get_all_rosters Line no. 56 :North Dakota State
+Jan 08, 2017 13:37:08 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:09 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/north-dakota-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:09 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-north-dakota-state.csv.
+Jan 08, 2017 13:37:09 : [INFO/MainProcess] get_all_rosters Line no. 56 :Canisius
+Jan 08, 2017 13:37:09 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:10 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/canisius/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:10 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-canisius.csv.
+Jan 08, 2017 13:37:10 : [INFO/MainProcess] get_all_rosters Line no. 56 :Siena
+Jan 08, 2017 13:37:10 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:11 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/siena/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:11 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-siena.csv.
+Jan 08, 2017 13:37:11 : [INFO/MainProcess] get_all_rosters Line no. 56 :Southern Illinois
+Jan 08, 2017 13:37:11 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:12 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/southern-illinois/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:12 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-southern-illinois.csv.
+Jan 08, 2017 13:37:12 : [INFO/MainProcess] get_all_rosters Line no. 56 :Boston University
+Jan 08, 2017 13:37:12 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:13 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/boston-university/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:13 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-boston-university.csv.
+Jan 08, 2017 13:37:13 : [INFO/MainProcess] get_all_rosters Line no. 56 :Furman
+Jan 08, 2017 13:37:13 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:14 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/furman/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:14 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-furman.csv.
+Jan 08, 2017 13:37:14 : [INFO/MainProcess] get_all_rosters Line no. 56 :Nevada-Las Vegas
+Jan 08, 2017 13:37:14 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:15 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/nevada-las-vegas/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:15 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-nevada-las-vegas.csv.
+Jan 08, 2017 13:37:15 : [INFO/MainProcess] get_all_rosters Line no. 56 :IUPUI
+Jan 08, 2017 13:37:15 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:16 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/iupui/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:16 : [INFO/MainProcess] get_team_roster Line no. 51 :17 rows written to ../data/players-iupui.csv.
+Jan 08, 2017 13:37:16 : [INFO/MainProcess] get_all_rosters Line no. 56 :Wright State
+Jan 08, 2017 13:37:16 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:17 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/wright-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:17 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-wright-state.csv.
+Jan 08, 2017 13:37:17 : [INFO/MainProcess] get_all_rosters Line no. 56 :Eastern Illinois
+Jan 08, 2017 13:37:17 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:18 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/eastern-illinois/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:18 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-eastern-illinois.csv.
+Jan 08, 2017 13:37:18 : [INFO/MainProcess] get_all_rosters Line no. 56 :Tennessee-Martin
+Jan 08, 2017 13:37:18 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:19 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/tennessee-martin/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:19 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-tennessee-martin.csv.
+Jan 08, 2017 13:37:19 : [INFO/MainProcess] get_all_rosters Line no. 56 :Washington State
+Jan 08, 2017 13:37:19 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:20 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/washington-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:20 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-washington-state.csv.
+Jan 08, 2017 13:37:20 : [INFO/MainProcess] get_all_rosters Line no. 56 :Holy Cross
+Jan 08, 2017 13:37:20 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:21 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/holy-cross/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:21 : [INFO/MainProcess] get_team_roster Line no. 51 :17 rows written to ../data/players-holy-cross.csv.
+Jan 08, 2017 13:37:21 : [INFO/MainProcess] get_all_rosters Line no. 56 :North Dakota
+Jan 08, 2017 13:37:21 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:22 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/north-dakota/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:22 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-north-dakota.csv.
+Jan 08, 2017 13:37:22 : [INFO/MainProcess] get_all_rosters Line no. 56 :New Hampshire
+Jan 08, 2017 13:37:22 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:23 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/new-hampshire/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:23 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-new-hampshire.csv.
+Jan 08, 2017 13:37:23 : [INFO/MainProcess] get_all_rosters Line no. 56 :Elon
+Jan 08, 2017 13:37:23 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:24 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/elon/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:24 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-elon.csv.
+Jan 08, 2017 13:37:24 : [INFO/MainProcess] get_all_rosters Line no. 56 :Duquesne
+Jan 08, 2017 13:37:24 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:25 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/duquesne/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:25 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-duquesne.csv.
+Jan 08, 2017 13:37:25 : [INFO/MainProcess] get_all_rosters Line no. 56 :Wofford
+Jan 08, 2017 13:37:25 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:26 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/wofford/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:26 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-wofford.csv.
+Jan 08, 2017 13:37:26 : [INFO/MainProcess] get_all_rosters Line no. 56 :Hofstra
+Jan 08, 2017 13:37:26 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:27 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/hofstra/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:27 : [INFO/MainProcess] get_team_roster Line no. 51 :13 rows written to ../data/players-hofstra.csv.
+Jan 08, 2017 13:37:27 : [INFO/MainProcess] get_all_rosters Line no. 56 :San Jose State
+Jan 08, 2017 13:37:27 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:28 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/san-jose-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:28 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-san-jose-state.csv.
+Jan 08, 2017 13:37:28 : [INFO/MainProcess] get_all_rosters Line no. 56 :Mercer
+Jan 08, 2017 13:37:28 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:29 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/mercer/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:29 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-mercer.csv.
+Jan 08, 2017 13:37:29 : [INFO/MainProcess] get_all_rosters Line no. 56 :Bowling Green State
+Jan 08, 2017 13:37:29 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:30 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/bowling-green-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:30 : [INFO/MainProcess] get_team_roster Line no. 51 :13 rows written to ../data/players-bowling-green-state.csv.
+Jan 08, 2017 13:37:30 : [INFO/MainProcess] get_all_rosters Line no. 56 :Maryland-Baltimore County
+Jan 08, 2017 13:37:30 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:31 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/maryland-baltimore-county/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:31 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-maryland-baltimore-county.csv.
+Jan 08, 2017 13:37:31 : [INFO/MainProcess] get_all_rosters Line no. 56 :Fresno State
+Jan 08, 2017 13:37:31 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:32 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/fresno-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:32 : [INFO/MainProcess] get_team_roster Line no. 51 :17 rows written to ../data/players-fresno-state.csv.
+Jan 08, 2017 13:37:32 : [INFO/MainProcess] get_all_rosters Line no. 56 :Weber State
+Jan 08, 2017 13:37:32 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:33 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/weber-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:33 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-weber-state.csv.
+Jan 08, 2017 13:37:33 : [INFO/MainProcess] get_all_rosters Line no. 56 :Denver
+Jan 08, 2017 13:37:33 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:34 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/denver/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:34 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-denver.csv.
+Jan 08, 2017 13:37:34 : [INFO/MainProcess] get_all_rosters Line no. 56 :Central Michigan
+Jan 08, 2017 13:37:34 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:35 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/central-michigan/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:35 : [INFO/MainProcess] get_team_roster Line no. 51 :18 rows written to ../data/players-central-michigan.csv.
+Jan 08, 2017 13:37:35 : [INFO/MainProcess] get_all_rosters Line no. 56 :Murray State
+Jan 08, 2017 13:37:35 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:36 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/murray-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:36 : [INFO/MainProcess] get_team_roster Line no. 51 :12 rows written to ../data/players-murray-state.csv.
+Jan 08, 2017 13:37:36 : [INFO/MainProcess] get_all_rosters Line no. 56 :Eastern Michigan
+Jan 08, 2017 13:37:36 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:37 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/eastern-michigan/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:37 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-eastern-michigan.csv.
+Jan 08, 2017 13:37:37 : [INFO/MainProcess] get_all_rosters Line no. 56 :Northern Illinois
+Jan 08, 2017 13:37:37 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:38 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/northern-illinois/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:38 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-northern-illinois.csv.
+Jan 08, 2017 13:37:38 : [INFO/MainProcess] get_all_rosters Line no. 56 :Gardner-Webb
+Jan 08, 2017 13:37:38 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:39 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/gardner-webb/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:39 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-gardner-webb.csv.
+Jan 08, 2017 13:37:39 : [INFO/MainProcess] get_all_rosters Line no. 56 :Boston College
+Jan 08, 2017 13:37:39 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:40 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/boston-college/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:40 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-boston-college.csv.
+Jan 08, 2017 13:37:40 : [INFO/MainProcess] get_all_rosters Line no. 56 :Eastern Kentucky
+Jan 08, 2017 13:37:40 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:41 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/eastern-kentucky/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:41 : [INFO/MainProcess] get_team_roster Line no. 51 :17 rows written to ../data/players-eastern-kentucky.csv.
+Jan 08, 2017 13:37:41 : [INFO/MainProcess] get_all_rosters Line no. 56 :Florida Atlantic
+Jan 08, 2017 13:37:41 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:42 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/florida-atlantic/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:42 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-florida-atlantic.csv.
+Jan 08, 2017 13:37:42 : [INFO/MainProcess] get_all_rosters Line no. 56 :Fairfield
+Jan 08, 2017 13:37:42 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:43 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/fairfield/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:43 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-fairfield.csv.
+Jan 08, 2017 13:37:43 : [INFO/MainProcess] get_all_rosters Line no. 56 :Hawaii
+Jan 08, 2017 13:37:43 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:44 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/hawaii/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:44 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-hawaii.csv.
+Jan 08, 2017 13:37:44 : [INFO/MainProcess] get_all_rosters Line no. 56 :Texas A&M-Corpus Christi
+Jan 08, 2017 13:37:44 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:45 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/texas-am-corpus-christi/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:45 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-texas-am-corpus-christi.csv.
+Jan 08, 2017 13:37:45 : [INFO/MainProcess] get_all_rosters Line no. 56 :Santa Clara
+Jan 08, 2017 13:37:45 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:46 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/santa-clara/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:46 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-santa-clara.csv.
+Jan 08, 2017 13:37:46 : [INFO/MainProcess] get_all_rosters Line no. 56 :William & Mary
+Jan 08, 2017 13:37:46 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:47 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/william-mary/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:47 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-william-mary.csv.
+Jan 08, 2017 13:37:47 : [INFO/MainProcess] get_all_rosters Line no. 56 :Nebraska-Omaha
+Jan 08, 2017 13:37:47 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:48 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/nebraska-omaha/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:48 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-nebraska-omaha.csv.
+Jan 08, 2017 13:37:48 : [INFO/MainProcess] get_all_rosters Line no. 56 :UC-Irvine
+Jan 08, 2017 13:37:48 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:49 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/california-irvine/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:49 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-california-irvine.csv.
+Jan 08, 2017 13:37:49 : [INFO/MainProcess] get_all_rosters Line no. 56 :Ball State
+Jan 08, 2017 13:37:49 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:50 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/ball-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:50 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-ball-state.csv.
+Jan 08, 2017 13:37:50 : [INFO/MainProcess] get_all_rosters Line no. 56 :Georgia Southern
+Jan 08, 2017 13:37:50 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:51 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/georgia-southern/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:51 : [INFO/MainProcess] get_team_roster Line no. 51 :17 rows written to ../data/players-georgia-southern.csv.
+Jan 08, 2017 13:37:51 : [INFO/MainProcess] get_all_rosters Line no. 56 :Bradley
+Jan 08, 2017 13:37:51 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:52 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/bradley/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:52 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-bradley.csv.
+Jan 08, 2017 13:37:52 : [INFO/MainProcess] get_all_rosters Line no. 56 :Sam Houston State
+Jan 08, 2017 13:37:52 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:53 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/sam-houston-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:53 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-sam-houston-state.csv.
+Jan 08, 2017 13:37:53 : [INFO/MainProcess] get_all_rosters Line no. 56 :Morehead State
+Jan 08, 2017 13:37:53 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:54 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/morehead-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:54 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-morehead-state.csv.
+Jan 08, 2017 13:37:54 : [INFO/MainProcess] get_all_rosters Line no. 56 :Illinois-Chicago
+Jan 08, 2017 13:37:54 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:55 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/illinois-chicago/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:55 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-illinois-chicago.csv.
+Jan 08, 2017 13:37:55 : [INFO/MainProcess] get_all_rosters Line no. 56 :South Alabama
+Jan 08, 2017 13:37:55 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:56 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/south-alabama/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:56 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-south-alabama.csv.
+Jan 08, 2017 13:37:56 : [INFO/MainProcess] get_all_rosters Line no. 56 :Southeast Missouri State
+Jan 08, 2017 13:37:56 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:57 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/southeast-missouri-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:57 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-southeast-missouri-state.csv.
+Jan 08, 2017 13:37:57 : [INFO/MainProcess] get_all_rosters Line no. 56 :Arkansas-Little Rock
+Jan 08, 2017 13:37:57 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:58 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/arkansas-little-rock/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:58 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-arkansas-little-rock.csv.
+Jan 08, 2017 13:37:58 : [INFO/MainProcess] get_all_rosters Line no. 56 :Green Bay
+Jan 08, 2017 13:37:58 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:37:59 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/green-bay/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:37:59 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-green-bay.csv.
+Jan 08, 2017 13:37:59 : [INFO/MainProcess] get_all_rosters Line no. 56 :Mount St. Mary's
+Jan 08, 2017 13:37:59 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:38:00 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/mount-st-marys/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:38:00 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-mount-st-marys.csv.
+Jan 08, 2017 13:38:00 : [INFO/MainProcess] get_all_rosters Line no. 56 :Texas Southern
+Jan 08, 2017 13:38:00 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:38:01 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/texas-southern/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:38:01 : [INFO/MainProcess] get_team_roster Line no. 51 :17 rows written to ../data/players-texas-southern.csv.
+Jan 08, 2017 13:38:01 : [INFO/MainProcess] get_all_rosters Line no. 56 :Cleveland State
+Jan 08, 2017 13:38:01 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:38:02 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/cleveland-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:38:02 : [INFO/MainProcess] get_team_roster Line no. 51 :17 rows written to ../data/players-cleveland-state.csv.
+Jan 08, 2017 13:38:02 : [INFO/MainProcess] get_all_rosters Line no. 56 :Navy
+Jan 08, 2017 13:38:02 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:38:03 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/navy/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:38:03 : [INFO/MainProcess] get_team_roster Line no. 51 :23 rows written to ../data/players-navy.csv.
+Jan 08, 2017 13:38:03 : [INFO/MainProcess] get_all_rosters Line no. 56 :Pacific
+Jan 08, 2017 13:38:03 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:38:04 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/pacific/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:38:04 : [INFO/MainProcess] get_team_roster Line no. 51 :18 rows written to ../data/players-pacific.csv.
+Jan 08, 2017 13:38:04 : [INFO/MainProcess] get_all_rosters Line no. 56 :Oral Roberts
+Jan 08, 2017 13:38:04 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:38:05 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/oral-roberts/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:38:05 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-oral-roberts.csv.
+Jan 08, 2017 13:38:05 : [INFO/MainProcess] get_all_rosters Line no. 56 :NJIT
+Jan 08, 2017 13:38:05 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:38:06 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/njit/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:38:06 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-njit.csv.
+Jan 08, 2017 13:38:06 : [INFO/MainProcess] get_all_rosters Line no. 56 :Troy
+Jan 08, 2017 13:38:06 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:38:07 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/troy/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:38:07 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-troy.csv.
+Jan 08, 2017 13:38:07 : [INFO/MainProcess] get_all_rosters Line no. 56 :Wagner
+Jan 08, 2017 13:38:07 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:38:08 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/wagner/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:38:08 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-wagner.csv.
+Jan 08, 2017 13:38:08 : [INFO/MainProcess] get_all_rosters Line no. 56 :Quinnipiac
+Jan 08, 2017 13:38:08 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:38:09 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/quinnipiac/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:38:09 : [INFO/MainProcess] get_team_roster Line no. 51 :19 rows written to ../data/players-quinnipiac.csv.
+Jan 08, 2017 13:38:09 : [INFO/MainProcess] get_all_rosters Line no. 56 :Portland State
+Jan 08, 2017 13:38:09 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:38:10 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/portland-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:38:10 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-portland-state.csv.
+Jan 08, 2017 13:38:10 : [INFO/MainProcess] get_all_rosters Line no. 56 :Montana State
+Jan 08, 2017 13:38:10 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:38:11 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/montana-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:38:11 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-montana-state.csv.
+Jan 08, 2017 13:38:11 : [INFO/MainProcess] get_all_rosters Line no. 56 :Missouri-Kansas City
+Jan 08, 2017 13:38:11 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:38:12 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/missouri-kansas-city/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:38:12 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-missouri-kansas-city.csv.
+Jan 08, 2017 13:38:12 : [INFO/MainProcess] get_all_rosters Line no. 56 :Jacksonville
+Jan 08, 2017 13:38:12 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:38:13 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/jacksonville/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:38:13 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-jacksonville.csv.
+Jan 08, 2017 13:38:13 : [INFO/MainProcess] get_all_rosters Line no. 56 :Coastal Carolina
+Jan 08, 2017 13:38:13 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:38:14 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/coastal-carolina/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:38:14 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-coastal-carolina.csv.
+Jan 08, 2017 13:38:14 : [INFO/MainProcess] get_all_rosters Line no. 56 :Incarnate Word
+Jan 08, 2017 13:38:14 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:38:15 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/incarnate-word/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:38:15 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-incarnate-word.csv.
+Jan 08, 2017 13:38:15 : [INFO/MainProcess] get_all_rosters Line no. 56 :Rider
+Jan 08, 2017 13:38:15 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:38:16 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/rider/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:38:16 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-rider.csv.
+Jan 08, 2017 13:38:16 : [INFO/MainProcess] get_all_rosters Line no. 56 :Delaware
+Jan 08, 2017 13:38:16 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:38:17 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/delaware/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:38:17 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-delaware.csv.
+Jan 08, 2017 13:38:17 : [INFO/MainProcess] get_all_rosters Line no. 56 :Charlotte
+Jan 08, 2017 13:38:17 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:47:27 : [INFO/MainProcess] get_all_rosters Line no. 56 :Charlotte
+Jan 08, 2017 13:47:27 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:47:28 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/charlotte/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:47:28 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-charlotte.csv.
+Jan 08, 2017 13:47:29 : [INFO/MainProcess] get_all_rosters Line no. 56 :Fordham
+Jan 08, 2017 13:47:29 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:47:29 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/fordham/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:47:29 : [INFO/MainProcess] get_team_roster Line no. 51 :17 rows written to ../data/players-fordham.csv.
+Jan 08, 2017 13:47:30 : [INFO/MainProcess] get_all_rosters Line no. 56 :Long Beach State
+Jan 08, 2017 13:47:30 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:47:31 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/long-beach-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:47:31 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-long-beach-state.csv.
+Jan 08, 2017 13:47:32 : [INFO/MainProcess] get_all_rosters Line no. 56 :Robert Morris
+Jan 08, 2017 13:47:32 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:47:32 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/robert-morris/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:47:33 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-robert-morris.csv.
+Jan 08, 2017 13:47:34 : [INFO/MainProcess] get_all_rosters Line no. 56 :Saint Peter's
+Jan 08, 2017 13:47:34 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:47:34 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/saint-peters/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:47:34 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-saint-peters.csv.
+Jan 08, 2017 13:47:35 : [INFO/MainProcess] get_all_rosters Line no. 56 :Eastern Washington
+Jan 08, 2017 13:47:35 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:47:35 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/eastern-washington/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:47:36 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-eastern-washington.csv.
+Jan 08, 2017 13:47:37 : [INFO/MainProcess] get_all_rosters Line no. 56 :Western Michigan
+Jan 08, 2017 13:47:37 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:47:37 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/western-michigan/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:47:37 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-western-michigan.csv.
+Jan 08, 2017 13:47:38 : [INFO/MainProcess] get_all_rosters Line no. 56 :San Diego
+Jan 08, 2017 13:47:38 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:47:38 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/san-diego/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:47:39 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-san-diego.csv.
+Jan 08, 2017 13:47:40 : [INFO/MainProcess] get_all_rosters Line no. 56 :Brown
+Jan 08, 2017 13:47:40 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:47:40 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/brown/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:47:40 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-brown.csv.
+Jan 08, 2017 13:47:41 : [INFO/MainProcess] get_all_rosters Line no. 56 :North Texas
+Jan 08, 2017 13:47:41 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:47:41 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/north-texas/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:47:42 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-north-texas.csv.
+Jan 08, 2017 13:47:43 : [INFO/MainProcess] get_all_rosters Line no. 56 :Southeastern Louisiana
+Jan 08, 2017 13:47:43 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:47:43 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/southeastern-louisiana/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:47:43 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-southeastern-louisiana.csv.
+Jan 08, 2017 13:47:44 : [INFO/MainProcess] get_all_rosters Line no. 56 :Drexel
+Jan 08, 2017 13:47:44 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:47:44 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/drexel/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:47:45 : [INFO/MainProcess] get_team_roster Line no. 51 :17 rows written to ../data/players-drexel.csv.
+Jan 08, 2017 13:47:46 : [INFO/MainProcess] get_all_rosters Line no. 56 :Southern
+Jan 08, 2017 13:47:46 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:47:46 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/southern/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:47:46 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-southern.csv.
+Jan 08, 2017 13:47:47 : [INFO/MainProcess] get_all_rosters Line no. 56 :Lipscomb
+Jan 08, 2017 13:47:47 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:47:47 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/lipscomb/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:47:48 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-lipscomb.csv.
+Jan 08, 2017 13:47:49 : [INFO/MainProcess] get_all_rosters Line no. 56 :Northern Colorado
+Jan 08, 2017 13:47:49 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:47:49 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/northern-colorado/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:47:49 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-northern-colorado.csv.
+Jan 08, 2017 13:47:50 : [INFO/MainProcess] get_all_rosters Line no. 56 :Loyola (MD)
+Jan 08, 2017 13:47:50 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:47:51 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/loyola-md/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:47:51 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-loyola-md.csv.
+Jan 08, 2017 13:47:52 : [INFO/MainProcess] get_all_rosters Line no. 56 :Miami (OH)
+Jan 08, 2017 13:47:52 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:47:52 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/miami-oh/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:47:53 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-miami-oh.csv.
+Jan 08, 2017 13:47:54 : [INFO/MainProcess] get_all_rosters Line no. 56 :Jacksonville State
+Jan 08, 2017 13:47:54 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:47:54 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/jacksonville-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:47:54 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-jacksonville-state.csv.
+Jan 08, 2017 13:47:55 : [INFO/MainProcess] get_all_rosters Line no. 56 :Cal State Northridge
+Jan 08, 2017 13:47:55 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:47:55 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/cal-state-northridge/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:47:56 : [INFO/MainProcess] get_team_roster Line no. 51 :19 rows written to ../data/players-cal-state-northridge.csv.
+Jan 08, 2017 13:47:57 : [INFO/MainProcess] get_all_rosters Line no. 56 :South Dakota State
+Jan 08, 2017 13:47:57 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:47:57 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/south-dakota-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:47:58 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-south-dakota-state.csv.
+Jan 08, 2017 13:47:59 : [INFO/MainProcess] get_all_rosters Line no. 56 :South Florida
+Jan 08, 2017 13:47:59 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:47:59 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/south-florida/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:47:59 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-south-florida.csv.
+Jan 08, 2017 13:48:00 : [INFO/MainProcess] get_all_rosters Line no. 56 :Stephen F. Austin
+Jan 08, 2017 13:48:00 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:48:00 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/stephen-f-austin/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:48:01 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-stephen-f-austin.csv.
+Jan 08, 2017 13:48:02 : [INFO/MainProcess] get_all_rosters Line no. 56 :Manhattan
+Jan 08, 2017 13:48:02 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:48:02 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/manhattan/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:48:02 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-manhattan.csv.
+Jan 08, 2017 13:48:03 : [INFO/MainProcess] get_all_rosters Line no. 56 :Bryant
+Jan 08, 2017 13:48:03 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:48:03 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/bryant/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:48:04 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-bryant.csv.
+Jan 08, 2017 13:48:05 : [INFO/MainProcess] get_all_rosters Line no. 56 :Liberty
+Jan 08, 2017 13:48:05 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:48:05 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/liberty/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:48:05 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-liberty.csv.
+Jan 08, 2017 13:48:06 : [INFO/MainProcess] get_all_rosters Line no. 56 :Niagara
+Jan 08, 2017 13:48:06 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:48:06 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/niagara/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:48:07 : [INFO/MainProcess] get_team_roster Line no. 51 :13 rows written to ../data/players-niagara.csv.
+Jan 08, 2017 13:48:08 : [INFO/MainProcess] get_all_rosters Line no. 56 :Drake
+Jan 08, 2017 13:48:08 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:48:08 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/drake/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:48:08 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-drake.csv.
+Jan 08, 2017 13:48:09 : [INFO/MainProcess] get_all_rosters Line no. 56 :New Orleans
+Jan 08, 2017 13:48:09 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:48:10 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/new-orleans/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:48:10 : [INFO/MainProcess] get_team_roster Line no. 51 :17 rows written to ../data/players-new-orleans.csv.
+Jan 08, 2017 13:48:11 : [INFO/MainProcess] get_all_rosters Line no. 56 :Stony Brook
+Jan 08, 2017 13:48:11 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:48:11 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/stony-brook/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:48:11 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-stony-brook.csv.
+Jan 08, 2017 13:48:12 : [INFO/MainProcess] get_all_rosters Line no. 56 :Columbia
+Jan 08, 2017 13:48:12 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:48:13 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/columbia/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:48:13 : [INFO/MainProcess] get_team_roster Line no. 51 :18 rows written to ../data/players-columbia.csv.
+Jan 08, 2017 13:48:14 : [INFO/MainProcess] get_all_rosters Line no. 56 :Texas State
+Jan 08, 2017 13:48:14 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:48:14 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/texas-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:48:14 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-texas-state.csv.
+Jan 08, 2017 13:48:15 : [INFO/MainProcess] get_all_rosters Line no. 56 :Tulane
+Jan 08, 2017 13:48:15 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:48:16 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/tulane/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:48:16 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-tulane.csv.
+Jan 08, 2017 13:48:17 : [INFO/MainProcess] get_all_rosters Line no. 56 :Long Island University
+Jan 08, 2017 13:48:17 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:48:17 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/long-island-university/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:48:17 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-long-island-university.csv.
+Jan 08, 2017 13:48:18 : [INFO/MainProcess] get_all_rosters Line no. 56 :Massachusetts-Lowell
+Jan 08, 2017 13:48:18 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:48:19 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/massachusetts-lowell/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:48:19 : [INFO/MainProcess] get_team_roster Line no. 51 :13 rows written to ../data/players-massachusetts-lowell.csv.
+Jan 08, 2017 13:48:20 : [INFO/MainProcess] get_all_rosters Line no. 56 :Seattle
+Jan 08, 2017 13:48:20 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:48:20 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/seattle/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:48:20 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-seattle.csv.
+Jan 08, 2017 13:48:21 : [INFO/MainProcess] get_all_rosters Line no. 56 :Milwaukee
+Jan 08, 2017 13:48:21 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:48:22 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/milwaukee/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:48:22 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-milwaukee.csv.
+Jan 08, 2017 13:48:23 : [INFO/MainProcess] get_all_rosters Line no. 56 :Houston Baptist
+Jan 08, 2017 13:48:23 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:48:23 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/houston-baptist/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:48:24 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-houston-baptist.csv.
+Jan 08, 2017 13:48:25 : [INFO/MainProcess] get_all_rosters Line no. 56 :Idaho
+Jan 08, 2017 13:48:25 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:48:25 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/idaho/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:48:25 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-idaho.csv.
+Jan 08, 2017 13:48:26 : [INFO/MainProcess] get_all_rosters Line no. 56 :Western Kentucky
+Jan 08, 2017 13:48:26 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:48:26 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/western-kentucky/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:48:27 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-western-kentucky.csv.
+Jan 08, 2017 13:48:28 : [INFO/MainProcess] get_all_rosters Line no. 56 :North Florida
+Jan 08, 2017 13:48:28 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:48:28 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/north-florida/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:48:28 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-north-florida.csv.
+Jan 08, 2017 13:48:29 : [INFO/MainProcess] get_all_rosters Line no. 56 :Saint Louis
+Jan 08, 2017 13:48:29 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:48:29 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/saint-louis/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:48:30 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-saint-louis.csv.
+Jan 08, 2017 13:48:31 : [INFO/MainProcess] get_all_rosters Line no. 56 :UC-Davis
+Jan 08, 2017 13:48:31 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:48:31 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/california-davis/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:48:31 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-california-davis.csv.
+Jan 08, 2017 13:48:32 : [INFO/MainProcess] get_all_rosters Line no. 56 :South Carolina Upstate
+Jan 08, 2017 13:48:32 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:48:32 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/south-carolina-upstate/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:48:33 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-south-carolina-upstate.csv.
+Jan 08, 2017 13:48:34 : [INFO/MainProcess] get_all_rosters Line no. 56 :Southern Illinois-Edwardsville
+Jan 08, 2017 13:48:34 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:48:34 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/southern-illinois-edwardsville/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:48:34 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-southern-illinois-edwardsville.csv.
+Jan 08, 2017 13:48:35 : [INFO/MainProcess] get_all_rosters Line no. 56 :Appalachian State
+Jan 08, 2017 13:48:35 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:48:35 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/appalachian-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:48:36 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-appalachian-state.csv.
+Jan 08, 2017 13:48:37 : [INFO/MainProcess] get_all_rosters Line no. 56 :Cornell
+Jan 08, 2017 13:48:37 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:48:37 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/cornell/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:48:37 : [INFO/MainProcess] get_team_roster Line no. 51 :18 rows written to ../data/players-cornell.csv.
+Jan 08, 2017 13:48:38 : [INFO/MainProcess] get_all_rosters Line no. 56 :Florida International
+Jan 08, 2017 13:48:38 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:48:38 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/florida-international/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:48:39 : [INFO/MainProcess] get_team_roster Line no. 51 :13 rows written to ../data/players-florida-international.csv.
+Jan 08, 2017 13:48:40 : [INFO/MainProcess] get_all_rosters Line no. 56 :High Point
+Jan 08, 2017 13:48:40 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:48:40 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/high-point/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:48:40 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-high-point.csv.
+Jan 08, 2017 13:48:41 : [INFO/MainProcess] get_all_rosters Line no. 56 :American
+Jan 08, 2017 13:48:41 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:48:41 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/american/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:48:42 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-american.csv.
+Jan 08, 2017 13:48:43 : [INFO/MainProcess] get_all_rosters Line no. 56 :Texas-Rio Grande Valley
+Jan 08, 2017 13:48:43 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:48:43 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/texas-pan-american/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:48:43 : [INFO/MainProcess] get_team_roster Line no. 51 :17 rows written to ../data/players-texas-pan-american.csv.
+Jan 08, 2017 13:48:44 : [INFO/MainProcess] get_all_rosters Line no. 56 :Cal Poly
+Jan 08, 2017 13:48:44 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:48:44 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/cal-poly/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:48:45 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-cal-poly.csv.
+Jan 08, 2017 13:48:46 : [INFO/MainProcess] get_all_rosters Line no. 56 :Sacred Heart
+Jan 08, 2017 13:48:46 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:48:46 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/sacred-heart/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:48:46 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-sacred-heart.csv.
+Jan 08, 2017 13:48:47 : [INFO/MainProcess] get_all_rosters Line no. 56 :Youngstown State
+Jan 08, 2017 13:48:47 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:48:48 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/youngstown-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:48:48 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-youngstown-state.csv.
+Jan 08, 2017 13:48:49 : [INFO/MainProcess] get_all_rosters Line no. 56 :Texas-El Paso
+Jan 08, 2017 13:48:49 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:48:49 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/texas-el-paso/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:48:49 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-texas-el-paso.csv.
+Jan 08, 2017 13:48:50 : [INFO/MainProcess] get_all_rosters Line no. 56 :Norfolk State
+Jan 08, 2017 13:48:50 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:48:51 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/norfolk-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:48:51 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-norfolk-state.csv.
+Jan 08, 2017 13:48:52 : [INFO/MainProcess] get_all_rosters Line no. 56 :Tennessee Tech
+Jan 08, 2017 13:48:52 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:48:52 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/tennessee-tech/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:48:52 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-tennessee-tech.csv.
+Jan 08, 2017 13:48:53 : [INFO/MainProcess] get_all_rosters Line no. 56 :Northwestern State
+Jan 08, 2017 13:48:53 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:48:53 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/northwestern-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:48:54 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-northwestern-state.csv.
+Jan 08, 2017 13:48:55 : [INFO/MainProcess] get_all_rosters Line no. 56 :Radford
+Jan 08, 2017 13:48:55 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:48:55 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/radford/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:48:55 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-radford.csv.
+Jan 08, 2017 13:48:56 : [INFO/MainProcess] get_all_rosters Line no. 56 :Binghamton
+Jan 08, 2017 13:48:56 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:48:57 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/binghamton/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:48:57 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-binghamton.csv.
+Jan 08, 2017 13:48:58 : [INFO/MainProcess] get_all_rosters Line no. 56 :Oregon State
+Jan 08, 2017 13:48:58 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:48:58 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/oregon-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:48:58 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-oregon-state.csv.
+Jan 08, 2017 13:48:59 : [INFO/MainProcess] get_all_rosters Line no. 56 :Abilene Christian
+Jan 08, 2017 13:48:59 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:49:00 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/abilene-christian/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:49:00 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-abilene-christian.csv.
+Jan 08, 2017 13:49:01 : [INFO/MainProcess] get_all_rosters Line no. 56 :Colgate
+Jan 08, 2017 13:49:01 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:49:01 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/colgate/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:49:01 : [INFO/MainProcess] get_team_roster Line no. 51 :18 rows written to ../data/players-colgate.csv.
+Jan 08, 2017 13:49:02 : [INFO/MainProcess] get_all_rosters Line no. 56 :Pepperdine
+Jan 08, 2017 13:49:02 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:49:02 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/pepperdine/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:49:03 : [INFO/MainProcess] get_team_roster Line no. 51 :17 rows written to ../data/players-pepperdine.csv.
+Jan 08, 2017 13:49:04 : [INFO/MainProcess] get_all_rosters Line no. 56 :Marist
+Jan 08, 2017 13:49:04 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:49:04 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/marist/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:49:04 : [INFO/MainProcess] get_team_roster Line no. 51 :13 rows written to ../data/players-marist.csv.
+Jan 08, 2017 13:49:05 : [INFO/MainProcess] get_all_rosters Line no. 56 :Morgan State
+Jan 08, 2017 13:49:05 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:49:05 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/morgan-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:49:06 : [INFO/MainProcess] get_team_roster Line no. 51 :13 rows written to ../data/players-morgan-state.csv.
+Jan 08, 2017 13:49:07 : [INFO/MainProcess] get_all_rosters Line no. 56 :Hampton
+Jan 08, 2017 13:49:07 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:49:07 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/hampton/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:49:07 : [INFO/MainProcess] get_team_roster Line no. 51 :17 rows written to ../data/players-hampton.csv.
+Jan 08, 2017 13:49:08 : [INFO/MainProcess] get_all_rosters Line no. 56 :Howard
+Jan 08, 2017 13:49:08 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:49:09 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/howard/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:49:09 : [INFO/MainProcess] get_team_roster Line no. 51 :19 rows written to ../data/players-howard.csv.
+Jan 08, 2017 13:49:10 : [INFO/MainProcess] get_all_rosters Line no. 56 :Fairleigh Dickinson
+Jan 08, 2017 13:49:10 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:49:10 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/fairleigh-dickinson/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:49:10 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-fairleigh-dickinson.csv.
+Jan 08, 2017 13:49:11 : [INFO/MainProcess] get_all_rosters Line no. 56 :Maine
+Jan 08, 2017 13:49:11 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:49:12 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/maine/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:49:12 : [INFO/MainProcess] get_team_roster Line no. 51 :17 rows written to ../data/players-maine.csv.
+Jan 08, 2017 13:49:13 : [INFO/MainProcess] get_all_rosters Line no. 56 :Western Illinois
+Jan 08, 2017 13:49:13 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:49:13 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/western-illinois/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:49:14 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-western-illinois.csv.
+Jan 08, 2017 13:49:15 : [INFO/MainProcess] get_all_rosters Line no. 56 :Louisiana-Monroe
+Jan 08, 2017 13:49:15 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:49:15 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/louisiana-monroe/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:49:15 : [INFO/MainProcess] get_team_roster Line no. 51 :13 rows written to ../data/players-louisiana-monroe.csv.
+Jan 08, 2017 13:49:16 : [INFO/MainProcess] get_all_rosters Line no. 56 :Austin Peay
+Jan 08, 2017 13:49:16 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:49:16 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/austin-peay/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:49:17 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-austin-peay.csv.
+Jan 08, 2017 13:49:18 : [INFO/MainProcess] get_all_rosters Line no. 56 :Saint Francis (PA)
+Jan 08, 2017 13:49:18 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:49:18 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/saint-francis-pa/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:49:18 : [INFO/MainProcess] get_team_roster Line no. 51 :18 rows written to ../data/players-saint-francis-pa.csv.
+Jan 08, 2017 13:49:19 : [INFO/MainProcess] get_all_rosters Line no. 56 :Lamar
+Jan 08, 2017 13:49:19 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:49:19 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/lamar/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:49:20 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-lamar.csv.
+Jan 08, 2017 13:49:21 : [INFO/MainProcess] get_all_rosters Line no. 56 :Central Arkansas
+Jan 08, 2017 13:49:21 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:49:21 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/central-arkansas/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:49:21 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-central-arkansas.csv.
+Jan 08, 2017 13:49:22 : [INFO/MainProcess] get_all_rosters Line no. 56 :Cal State Fullerton
+Jan 08, 2017 13:49:22 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:49:23 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/cal-state-fullerton/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:49:23 : [INFO/MainProcess] get_team_roster Line no. 51 :17 rows written to ../data/players-cal-state-fullerton.csv.
+Jan 08, 2017 13:49:24 : [INFO/MainProcess] get_all_rosters Line no. 56 :Jackson State
+Jan 08, 2017 13:49:24 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:49:24 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/jackson-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:49:24 : [INFO/MainProcess] get_team_roster Line no. 51 :20 rows written to ../data/players-jackson-state.csv.
+Jan 08, 2017 13:49:25 : [INFO/MainProcess] get_all_rosters Line no. 56 :Maryland-Eastern Shore
+Jan 08, 2017 13:49:25 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:49:26 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/maryland-eastern-shore/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:49:26 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-maryland-eastern-shore.csv.
+Jan 08, 2017 13:49:27 : [INFO/MainProcess] get_all_rosters Line no. 56 :Texas-San Antonio
+Jan 08, 2017 13:49:27 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:49:27 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/texas-san-antonio/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:49:28 : [INFO/MainProcess] get_team_roster Line no. 51 :17 rows written to ../data/players-texas-san-antonio.csv.
+Jan 08, 2017 13:49:29 : [INFO/MainProcess] get_all_rosters Line no. 56 :UC-Santa Barbara
+Jan 08, 2017 13:49:29 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:49:29 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/california-santa-barbara/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:49:29 : [INFO/MainProcess] get_team_roster Line no. 51 :17 rows written to ../data/players-california-santa-barbara.csv.
+Jan 08, 2017 13:49:30 : [INFO/MainProcess] get_all_rosters Line no. 56 :James Madison
+Jan 08, 2017 13:49:30 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:49:30 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/james-madison/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:49:31 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-james-madison.csv.
+Jan 08, 2017 13:49:32 : [INFO/MainProcess] get_all_rosters Line no. 56 :Idaho State
+Jan 08, 2017 13:49:32 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:49:32 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/idaho-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:49:32 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-idaho-state.csv.
+Jan 08, 2017 13:49:33 : [INFO/MainProcess] get_all_rosters Line no. 56 :Stetson
+Jan 08, 2017 13:49:33 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:49:34 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/stetson/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:49:34 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-stetson.csv.
+Jan 08, 2017 13:49:35 : [INFO/MainProcess] get_all_rosters Line no. 56 :Hartford
+Jan 08, 2017 13:49:35 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:49:35 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/hartford/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:49:35 : [INFO/MainProcess] get_team_roster Line no. 51 :13 rows written to ../data/players-hartford.csv.
+Jan 08, 2017 13:49:36 : [INFO/MainProcess] get_all_rosters Line no. 56 :Kennesaw State
+Jan 08, 2017 13:49:36 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:49:37 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/kennesaw-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:49:37 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-kennesaw-state.csv.
+Jan 08, 2017 13:49:38 : [INFO/MainProcess] get_all_rosters Line no. 56 :Charleston Southern
+Jan 08, 2017 13:49:38 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:49:38 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/charleston-southern/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:49:38 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-charleston-southern.csv.
+Jan 08, 2017 13:49:40 : [INFO/MainProcess] get_all_rosters Line no. 56 :Campbell
+Jan 08, 2017 13:49:40 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:49:40 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/campbell/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:49:40 : [INFO/MainProcess] get_team_roster Line no. 51 :18 rows written to ../data/players-campbell.csv.
+Jan 08, 2017 13:49:41 : [INFO/MainProcess] get_all_rosters Line no. 56 :Detroit Mercy
+Jan 08, 2017 13:49:41 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:49:41 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/detroit-mercy/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:49:42 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-detroit-mercy.csv.
+Jan 08, 2017 13:49:43 : [INFO/MainProcess] get_all_rosters Line no. 56 :Virginia Military Institute
+Jan 08, 2017 13:49:43 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:49:43 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/virginia-military-institute/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:49:43 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-virginia-military-institute.csv.
+Jan 08, 2017 13:49:44 : [INFO/MainProcess] get_all_rosters Line no. 56 :South Carolina State
+Jan 08, 2017 13:49:44 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:49:45 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/south-carolina-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:49:45 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-south-carolina-state.csv.
+Jan 08, 2017 13:49:46 : [INFO/MainProcess] get_all_rosters Line no. 56 :Dartmouth
+Jan 08, 2017 13:49:46 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:49:46 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/dartmouth/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:49:46 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-dartmouth.csv.
+Jan 08, 2017 13:49:47 : [INFO/MainProcess] get_all_rosters Line no. 56 :Central Connecticut State
+Jan 08, 2017 13:49:47 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:49:47 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/central-connecticut-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:49:48 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-central-connecticut-state.csv.
+Jan 08, 2017 13:49:49 : [INFO/MainProcess] get_all_rosters Line no. 56 :Southern Utah
+Jan 08, 2017 13:49:49 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:49:49 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/southern-utah/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:49:49 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-southern-utah.csv.
+Jan 08, 2017 13:49:50 : [INFO/MainProcess] get_all_rosters Line no. 56 :Nicholls State
+Jan 08, 2017 13:49:50 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:49:50 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/nicholls-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:49:51 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-nicholls-state.csv.
+Jan 08, 2017 13:49:52 : [INFO/MainProcess] get_all_rosters Line no. 56 :Western Carolina
+Jan 08, 2017 13:49:52 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:49:52 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/western-carolina/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:49:52 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-western-carolina.csv.
+Jan 08, 2017 13:49:53 : [INFO/MainProcess] get_all_rosters Line no. 56 :Chicago State
+Jan 08, 2017 13:49:53 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:49:53 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/chicago-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:49:54 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-chicago-state.csv.
+Jan 08, 2017 13:49:55 : [INFO/MainProcess] get_all_rosters Line no. 56 :Citadel
+Jan 08, 2017 13:49:55 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:49:55 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/citadel/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:49:55 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-citadel.csv.
+Jan 08, 2017 13:49:56 : [INFO/MainProcess] get_all_rosters Line no. 56 :Lafayette
+Jan 08, 2017 13:49:56 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:49:56 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/lafayette/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:49:57 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-lafayette.csv.
+Jan 08, 2017 13:49:58 : [INFO/MainProcess] get_all_rosters Line no. 56 :St. Francis (NY)
+Jan 08, 2017 13:49:58 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:49:58 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/st-francis-ny/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:49:58 : [INFO/MainProcess] get_team_roster Line no. 51 :13 rows written to ../data/players-st-francis-ny.csv.
+Jan 08, 2017 13:49:59 : [INFO/MainProcess] get_all_rosters Line no. 56 :UC-Riverside
+Jan 08, 2017 13:49:59 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:49:59 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/california-riverside/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:50:00 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-california-riverside.csv.
+Jan 08, 2017 13:50:01 : [INFO/MainProcess] get_all_rosters Line no. 56 :Mississippi Valley State
+Jan 08, 2017 13:50:01 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:50:01 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/mississippi-valley-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:50:01 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-mississippi-valley-state.csv.
+Jan 08, 2017 13:50:02 : [INFO/MainProcess] get_all_rosters Line no. 56 :Sacramento State
+Jan 08, 2017 13:50:02 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:50:03 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/sacramento-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:50:03 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-sacramento-state.csv.
+Jan 08, 2017 13:50:04 : [INFO/MainProcess] get_all_rosters Line no. 56 :Grambling
+Jan 08, 2017 13:50:04 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:50:04 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/grambling/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:50:04 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-grambling.csv.
+Jan 08, 2017 13:50:05 : [INFO/MainProcess] get_all_rosters Line no. 56 :Alcorn State
+Jan 08, 2017 13:50:05 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:50:05 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/alcorn-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:50:06 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-alcorn-state.csv.
+Jan 08, 2017 13:50:07 : [INFO/MainProcess] get_all_rosters Line no. 56 :Northern Arizona
+Jan 08, 2017 13:50:07 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:50:07 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/northern-arizona/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:50:08 : [INFO/MainProcess] get_team_roster Line no. 51 :18 rows written to ../data/players-northern-arizona.csv.
+Jan 08, 2017 13:50:09 : [INFO/MainProcess] get_all_rosters Line no. 56 :North Carolina A&T
+Jan 08, 2017 13:50:09 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:50:09 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/north-carolina-at/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:50:10 : [INFO/MainProcess] get_team_roster Line no. 51 :18 rows written to ../data/players-north-carolina-at.csv.
+Jan 08, 2017 13:50:11 : [INFO/MainProcess] get_all_rosters Line no. 56 :Prairie View
+Jan 08, 2017 13:50:11 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:50:11 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/prairie-view/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:50:11 : [INFO/MainProcess] get_team_roster Line no. 51 :19 rows written to ../data/players-prairie-view.csv.
+Jan 08, 2017 13:50:12 : [INFO/MainProcess] get_all_rosters Line no. 56 :McNeese State
+Jan 08, 2017 13:50:12 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:50:12 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/mcneese-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:50:13 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-mcneese-state.csv.
+Jan 08, 2017 13:50:14 : [INFO/MainProcess] get_all_rosters Line no. 56 :Delaware State
+Jan 08, 2017 13:50:14 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:50:14 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/delaware-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:50:14 : [INFO/MainProcess] get_team_roster Line no. 51 :18 rows written to ../data/players-delaware-state.csv.
+Jan 08, 2017 13:50:15 : [INFO/MainProcess] get_all_rosters Line no. 56 :Bethune-Cookman
+Jan 08, 2017 13:50:15 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:50:15 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/bethune-cookman/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:50:16 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-bethune-cookman.csv.
+Jan 08, 2017 13:50:17 : [INFO/MainProcess] get_all_rosters Line no. 56 :Alabama State
+Jan 08, 2017 13:50:17 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:50:17 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/alabama-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:50:17 : [INFO/MainProcess] get_team_roster Line no. 51 :17 rows written to ../data/players-alabama-state.csv.
+Jan 08, 2017 13:50:18 : [INFO/MainProcess] get_all_rosters Line no. 56 :Florida A&M
+Jan 08, 2017 13:50:18 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:50:18 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/florida-am/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:50:19 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-florida-am.csv.
+Jan 08, 2017 13:50:20 : [INFO/MainProcess] get_all_rosters Line no. 56 :Arkansas-Pine Bluff
+Jan 08, 2017 13:50:20 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:50:20 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/arkansas-pine-bluff/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:50:20 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-arkansas-pine-bluff.csv.
+Jan 08, 2017 13:50:21 : [INFO/MainProcess] get_all_rosters Line no. 56 :Presbyterian
+Jan 08, 2017 13:50:21 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:50:21 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/presbyterian/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:50:22 : [INFO/MainProcess] get_team_roster Line no. 51 :17 rows written to ../data/players-presbyterian.csv.
+Jan 08, 2017 13:50:23 : [INFO/MainProcess] get_all_rosters Line no. 56 :Savannah State
+Jan 08, 2017 13:50:23 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:50:23 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/savannah-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:50:23 : [INFO/MainProcess] get_team_roster Line no. 51 :14 rows written to ../data/players-savannah-state.csv.
+Jan 08, 2017 13:50:24 : [INFO/MainProcess] get_all_rosters Line no. 56 :Southern Mississippi
+Jan 08, 2017 13:50:24 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:50:25 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/southern-mississippi/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:50:25 : [INFO/MainProcess] get_team_roster Line no. 51 :17 rows written to ../data/players-southern-mississippi.csv.
+Jan 08, 2017 13:50:26 : [INFO/MainProcess] get_all_rosters Line no. 56 :Longwood
+Jan 08, 2017 13:50:26 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:50:26 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/longwood/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:50:26 : [INFO/MainProcess] get_team_roster Line no. 51 :15 rows written to ../data/players-longwood.csv.
+Jan 08, 2017 13:50:27 : [INFO/MainProcess] get_all_rosters Line no. 56 :Coppin State
+Jan 08, 2017 13:50:27 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:50:28 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/coppin-state/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:50:28 : [INFO/MainProcess] get_team_roster Line no. 51 :13 rows written to ../data/players-coppin-state.csv.
+Jan 08, 2017 13:50:29 : [INFO/MainProcess] get_all_rosters Line no. 56 :Alabama A&M
+Jan 08, 2017 13:50:29 : [INFO/MainProcess] _new_conn Line no. 214 :Starting new HTTP connection (1): www.sports-reference.com
+Jan 08, 2017 13:50:29 : [DEBUG/MainProcess] _make_request Line no. 401 :"GET /cbb/schools/alabama-am/2017.html HTTP/1.1" 200 None
+Jan 08, 2017 13:50:29 : [INFO/MainProcess] get_team_roster Line no. 51 :16 rows written to ../data/players-alabama-am.csv.

@@ -1,0 +1,15 @@
+number	weight	playerName	hometown	pos	height	playerId	summary	high_school	class
+30	205	Rashad Austin	Tampa, FL	F	80	rashad-austin-2	0.6 Pts, 0.6 Reb, 0.4 Ast		FR
+22	180	Marcus Barham	Melbourne, FL	G	76	marcus-barham-1	12.5 Pts, 3.8 Reb, 2.2 Ast		JR
+3	170	Craig Bowman	Saint Petersburg, FL	G	75	craig-bowman-1	10.3 Pts, 1.4 Reb, 1.9 Ast	Berkeley Prep	JR
+5	195	Nasir Core	Tampa, FL	G	73	nasir-core-1	3.5 Pts, 1.5 Reb, 1.0 Ast		FR
+14	230	Derrick Dandridge	Memphis, TN	F	80	derrick-dandridge-1	6.8 Pts, 4.8 Reb, 0.5 Ast		JR
+32	175	K'ja Johnson	Douglasville, GA	G	73	kja-johnson-1	5.7 Pts, 3.1 Reb, 3.0 Ast		SO
+4	170	Elijah Mays	Orlando, FL	G	72	elijah-mays-1	6.1 Pts, 2.2 Reb, 3.0 Ast		SR
+20	185	Brendon Myles	Atlanta, GA	G	76	brendon-myles-1	3.4 Pts, 1.2 Reb, 0.2 Ast		FR
+21	175	Justin Ravenel	Lithonia, GA	G	73	justin-ravenel-1	7.4 Pts, 1.9 Reb, 1.6 Ast		SO
+1	190	Nick Severado	Savannah, GA	G	80	nick-severado-1	3.2 Pts, 2.9 Reb, 0.4 Ast	Jenkins HS	SO
+12	260	Andrew Smith	Johnson City, TN	C	82	andrew-smith-4			SO
+2	235	Trey Warren	Norfolk, VA	F	80	trey-warren-1	5.6 Pts, 3.3 Reb, 0.4 Ast		SR
+	200	Desmond Williams	Atmore, AL	F	78	desmond-williams-1	15.2 Pts, 5.1 Reb, 1.0 Ast		JR
+23	205	Leon Williams	Fayetteville, NC	F	79	leon-williams-2	5.3 Pts, 3.0 Reb, 0.4 Ast		SO

@@ -2,6 +2,7 @@
 import argparse
 import requests
 from bs4 import BeautifulSoup as bsoup
+import logging, logging.handlers
 
 TEAMS_PATH = '../data/teams2017.csv'
 
@@ -39,7 +40,18 @@ def write_to_file(rows, filename, headers = False, sep = ','):
   for row in rows:
     f.write(write_format % tuple(row))
   f.close()
-  print '%s rows written to %s.' % (len(rows), filename)
 
-
+def init_logging(filepath, maxMB=400, backupCount=5):
+    logger = logging.getLogger()
+    handler = logging.handlers.RotatingFileHandler(filename=filepath, mode='a',
+                                                   maxBytes=maxMB * 1024 * 1024,
+                                                   backupCount=backupCount)
+    handler.setFormatter(logging.Formatter(fmt='%(asctime)s : '
+                                           '[%(levelname)s/%(processName)s] '
+                                           '%(funcName)s Line no. %(lineno)s :'
+                                           '%(message)s',
+                                           datefmt="%b %d, %Y %H:%M:%S"))
+    logger.addHandler(handler)
+    logger.setLevel(logging.DEBUG)
+    return logger
 
