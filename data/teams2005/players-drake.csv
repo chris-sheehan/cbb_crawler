@@ -1,0 +1,17 @@
+number	weight	playerName	hometown	pos	height	playerId	summary	class
+35	190	Pete Eggers	Dubuque, IA	F	76	pete-eggers-1	11.2 Pts, 3.5 Reb, 1.1 Ast	SR
+1	165	Lonnie Randolph	East Chicago, IN	G	73	lonnie-randolph-1	10.3 Pts, 2.7 Reb, 3.0 Ast	SR
+24	210	Klayton Korver	Pella, IA	F	78	klayton-korver-1	9.9 Pts, 5.0 Reb, 0.8 Ast	SO
+44	260	Aliou Keita		C	80	aliou-keita-1	9.0 Pts, 7.1 Reb, 0.4 Ast	SO
+2	180	Chris Bryant	Metlakatla, AK	G	75	chris-bryant-1	6.5 Pts, 1.4 Reb, 0.6 Ast	FR
+13	190	Chaun Brooks	San Antonio, TX	G	74	chaun-brooks-1	5.8 Pts, 3.6 Reb, 3.4 Ast	JR
+23	180	Sean Tracy	Silver Spring, MD	G	76	sean-tracy-1	4.2 Pts, 2.0 Reb, 1.6 Ast	JR
+10	200	Nick Grant	Annandale, VA	G	75	nick-grant-1	4.5 Pts, 1.9 Reb, 0.4 Ast	SO
+32	235	David Bancroft	Marshfield, MO	F	81	david-bancroft-1	3.3 Pts, 1.7 Reb, 0.2 Ast	SR
+4	225	Brent Heemskerk	Grand Rapids, MI	F	80	brent-heemskerk-1	2.7 Pts, 2.4 Reb, 0.2 Ast	FR
+5	175	Leonard Houston	Holland, MI	G	73	leonard-houston-1	2.3 Pts, 1.2 Reb, 0.1 Ast	FR
+34	210	Josh Powell	Des Moines, IA	F	79	josh-powell-2	1.4 Pts, 1.3 Reb, 0.2 Ast	JR
+22	179	Nate Richie	Decatur, IN	G	74	nate-richie-1	2.0 Pts, 0.8 Reb, 0.3 Ast	SR
+15	189	Adam Emmenecker	Saginaw, MI	G	73	adam-emmenecker-1	0.3 Pts, 0.1 Reb, 0.4 Ast	FR
+12	240	Thomas Diezi		C	80	thomas-diezi-1	0.7 Pts, 0.3 Reb, 0.0 Ast	JR
+40	185	Zach Egli	Ankeny, IA	G	77	zach-egli-1	0.0 Pts, 0.3 Reb, 0.0 Ast	SO

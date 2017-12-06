@@ -1,0 +1,17 @@
+number	weight	playerName	hometown	pos	height	playerId	summary	class
+11	185	Tim Keller	Austin, TX	G	75	tim-keller-1	11.0 Pts, 2.1 Reb, 2.1 Ast	JR
+45	212	Nick Welch	Fort Worth, TX	C	80	nick-welch-1	11.4 Pts, 4.0 Reb, 2.9 Ast	SO
+15	200	Antoine Hood		G	77	antoine-hood-1	10.4 Pts, 3.2 Reb, 1.5 Ast	SO
+10	189	A.J. Kuhle	Concord, CA	F	76	aj-kuhle-1	8.1 Pts, 3.1 Reb, 3.1 Ast	SR
+33	205	Joel Gerlach	Littleton, CO	F	79	joel-gerlach-1	8.0 Pts, 2.3 Reb, 1.0 Ast	SR
+21	225	Jacob Burtschi	Chickasha, OK	F	78	jacob-burtschi-1	3.7 Pts, 2.5 Reb, 0.7 Ast	FR
+5	185	Matt McCraw	Lakewood, CA	G	74	matt-mccraw-1	3.2 Pts, 0.7 Reb, 0.5 Ast	FR
+34	206	Dan Nwaelele	Bothell, WA	F	77	dan-nwaelele-1	2.4 Pts, 0.8 Reb, 0.7 Ast	FR
+42	235	Caleb Buchanan	Bedford, VA	C	79	caleb-buchanan-1	1.5 Pts, 1.0 Reb, 0.3 Ast	JR
+40	205	David Peterson	Mountain Home, ID	C	80	david-peterson-1	1.2 Pts, 0.7 Reb, 0.6 Ast	JR
+14	185	Marcus Jenkins	Lompoc, CA	G	73	marcus-jenkins-1	0.9 Pts, 0.4 Reb, 0.6 Ast	SR
+20	200	Jared Dillinger	Littleton, CO	G	77	jared-dillinger-2	1.1 Pts, 0.6 Reb, 0.2 Ast	FR
+13	190	Derek Groth	Yakima, WA	G	75	derek-groth-1	1.0 Pts, 0.4 Reb, 0.0 Ast	FR
+50	212	Tysen Pina	Roswell, GA	C	80	tysen-pina-1	0.5 Pts, 0.0 Reb, 0.5 Ast	SR
+54	215	John Frye	Fredericksburg, VA	C	82	john-frye-1	0.0 Pts, 0.3 Reb, 0.2 Ast	FR
+24	200	Ryan Teets	Springboro, OH	F	78	ryan-teets-1	0.0 Pts, 0.4 Reb, 0.3 Ast	FR

@@ -1,0 +1,14 @@
+number	weight	playerName	hometown	pos	height	playerId	summary	class
+30	185	Stephen Curry	Charlotte, NC	G	75	stephen-curry-1	21.5 Pts, 4.6 Reb, 2.8 Ast	FR
+2	185	Jason Richards	Barrington, IL	G	74	jason-richards-1	13.5 Pts, 3.8 Reb, 7.3 Ast	JR
+15	220	Thomas Sander	Cincinnati, OH	F	80	thomas-sander-1	13.2 Pts, 6.4 Reb, 1.2 Ast	JR
+5	230	Boris Meno		F	80	boris-meno-1	11.0 Pts, 8.2 Reb, 0.8 Ast	JR
+22	220	Will Archambault		F	78	will-archambault-1	7.9 Pts, 2.8 Reb, 0.8 Ast	FR
+41	220	Andrew Lovedale		F	80	andrew-lovedale-1	4.9 Pts, 5.9 Reb, 0.7 Ast	SO
+14	210	Max Paulhus Gosselin		G	78	max-paulhus-gosselin-1	4.8 Pts, 3.1 Reb, 1.8 Ast	SO
+24	190	Bryant Barr	Falmouth, ME	G	76	bryant-barr-1	3.5 Pts, 0.8 Reb, 0.6 Ast	FR
+23	230	Steve Rossiter	Staten Island, NY	F	79	steve-rossiter-1	1.5 Pts, 2.0 Reb, 0.4 Ast	FR
+	205	John Falconi	Cincinnati, OH	G	76	john-falconi-1	0.6 Pts, 0.4 Reb, 0.1 Ast	SR
+	225	Dan Nelms	Lake Forest, IL	F	81	dan-nelms-1	0.7 Pts, 0.9 Reb, 0.1 Ast	FR
+12	190	Can Civi		G	73	can-civi-1	0.2 Pts, 0.2 Reb, 0.3 Ast	SO
+20	165	Lamar Hull	Maiden, NC	G	69	lamar-hull-1	0.0 Pts, 0.1 Reb, 0.0 Ast	SR

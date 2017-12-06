@@ -1,13 +1,14 @@
 
+import os
 import argparse
 import requests
 from bs4 import BeautifulSoup as bsoup
 import logging, logging.handlers
 
-TEAMS_PATH = '../data/teams2017.csv'
+TEAMS_PATH_FMT = './data/teams{yyyy}.csv'
 
-def load_teams():
-  f = open(TEAMS_PATH, 'r')
+def load_teams(year):
+  f = open(TEAMS_PATH_FMT.format(yyyy = year), 'r')
   headers = f.readline().strip().split(',')
   teams = [ln.strip().split(',') for ln in f.readlines()]
   f.close()
@@ -31,6 +32,13 @@ def get_table_by_id(soup, tag_id):
 def get_table_body_rows(tbl):
   rows = tbl.find('tbody').findAll('tr')
   return rows
+
+def create_dir_if_not_exists(dir):
+  if not os.path.exists(dir):
+    os.mkdir(dir)
+  if os.path.exists(dir):
+    return dir
+  return False
 
 def write_to_file(rows, filename, headers = False, sep = ','):
   f = open(filename, 'w')

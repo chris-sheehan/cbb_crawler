@@ -1,0 +1,326 @@
+school_name,school_abbrev
+Kansas,kansas
+Arizona,arizona
+Kentucky,kentucky
+Pittsburgh,pittsburgh
+Maryland,maryland
+Duke,duke
+Illinois,illinois
+Louisville,louisville
+Syracuse,syracuse
+Texas,texas
+Oklahoma,oklahoma
+Florida,florida
+Mississippi State,mississippi-state
+Wisconsin,wisconsin
+Notre Dame,notre-dame
+Georgia,georgia
+Wake Forest,wake-forest
+Marquette,marquette
+Michigan State,michigan-state
+Louisiana State,louisiana-state
+Xavier,xavier
+Purdue,purdue
+Connecticut,connecticut
+Creighton,creighton
+Arizona State,arizona-state
+Missouri,missouri
+Texas Tech,texas-tech
+Oklahoma State,oklahoma-state
+Saint Joseph's,saint-josephs
+Oregon,oregon
+Brigham Young,brigham-young
+Alabama,alabama
+Stanford,stanford
+Memphis,memphis
+Cincinnati,cincinnati
+Georgetown,georgetown
+Colorado,colorado
+Auburn,auburn
+Indiana,indiana
+Gonzaga,gonzaga
+Georgia Tech,georgia-tech
+University of California,california
+North Carolina State,north-carolina-state
+Providence,providence
+North Carolina,north-carolina
+Dayton,dayton
+Utah,utah
+Tulsa,tulsa
+Boston College,boston-college
+Kansas State,kansas-state
+Tennessee,tennessee
+Iowa State,iowa-state
+St. John's (NY),st-johns-ny
+Seton Hall,seton-hall
+Michigan,michigan
+Mississippi,mississippi
+Butler,butler
+Minnesota,minnesota
+Villanova,villanova
+Nevada-Las Vegas,nevada-las-vegas
+Florida State,florida-state
+DePaul,depaul
+Southern Illinois,southern-illinois
+North Carolina-Wilmington,north-carolina-wilmington
+Iowa,iowa
+Pennsylvania,pennsylvania
+Ohio State,ohio-state
+Louisiana-Lafayette,louisiana-lafayette
+Milwaukee,milwaukee
+Western Kentucky,western-kentucky
+Alabama-Birmingham,alabama-birmingham
+Virginia,virginia
+South Carolina,south-carolina
+Southern California,southern-california
+Temple,temple
+Central Michigan,central-michigan
+Saint Louis,saint-louis
+Western Michigan,western-michigan
+UCLA,ucla
+Richmond,richmond
+Illinois-Chicago,illinois-chicago
+Vanderbilt,vanderbilt
+Missouri State,missouri-state
+Miami (FL),miami-fl
+Baylor,baylor
+Tulane,tulane
+Nevada,nevada
+Texas A&M,texas-am
+Detroit Mercy,detroit-mercy
+Manhattan,manhattan
+St. Bonaventure,st-bonaventure
+Wyoming,wyoming
+Clemson,clemson
+Charlotte,charlotte
+San Diego,san-diego
+Colorado State,colorado-state
+Fresno State,fresno-state
+Holy Cross,holy-cross
+San Diego State,san-diego-state
+Rutgers,rutgers
+Kent State,kent-state
+New Mexico State,new-mexico-state
+Arkansas,arkansas
+Washington,washington
+Weber State,weber-state
+Hawaii,hawaii
+South Florida,south-florida
+Utah State,utah-state
+West Virginia,west-virginia
+Oregon State,oregon-state
+Valparaiso,valparaiso
+Rhode Island,rhode-island
+Nebraska,nebraska
+Rice,rice
+UC-Santa Barbara,california-santa-barbara
+Troy,troy
+George Washington,george-washington
+Virginia Commonwealth,virginia-commonwealth
+Siena,siena
+Eastern Washington,eastern-washington
+Murray State,murray-state
+Wichita State,wichita-state
+Northwestern,northwestern
+Virginia Tech,virginia-tech
+George Mason,george-mason
+San Francisco,san-francisco
+UC-Irvine,california-irvine
+Saint Mary's (CA),saint-marys-ca
+Miami (OH),miami-oh
+Toledo,toledo
+East Carolina,east-carolina
+Southern Methodist,southern-methodist
+Air Force,air-force
+Drexel,drexel
+Denver,denver
+College of Charleston,college-of-charleston
+Bradley,bradley
+Boston University,boston-university
+Middle Tennessee,middle-tennessee
+Northern Illinois,northern-illinois
+Pepperdine,pepperdine
+Loyola (IL),loyola-il
+Tennessee Tech,tennessee-tech
+Southern Mississippi,southern-mississippi
+South Alabama,south-alabama
+Texas Christian,texas-christian
+Chattanooga,chattanooga
+Princeton,princeton
+Davidson,davidson
+Morehead State,morehead-state
+Oral Roberts,oral-roberts
+Central Florida,central-florida
+La Salle,la-salle
+Arkansas State,arkansas-state
+Iona,iona
+Old Dominion,old-dominion
+New Orleans,new-orleans
+Fairfield,fairfield
+New Mexico,new-mexico
+Ball State,ball-state
+Evansville,evansville
+Marshall,marshall
+Akron,akron
+Austin Peay,austin-peay
+East Tennessee State,east-tennessee-state
+Arkansas-Little Rock,arkansas-little-rock
+Ohio,ohio
+Boise State,boise-state
+Pacific,pacific
+Yale,yale
+Delaware,delaware
+Stephen F. Austin,stephen-f-austin
+Vermont,vermont
+American,american
+Louisiana Tech,louisiana-tech
+Washington State,washington-state
+Sam Houston State,sam-houston-state
+Appalachian State,appalachian-state
+Massachusetts,massachusetts
+Penn State,penn-state
+Northern Iowa,northern-iowa
+Bowling Green State,bowling-green-state
+Cal State Northridge,cal-state-northridge
+Belmont,belmont
+Brown,brown
+Cal Poly,cal-poly
+Oakland,oakland
+IUPUI,iupui
+Niagara,niagara
+Montana,montana
+Houston,houston
+Eastern Illinois,eastern-illinois
+Canisius,canisius
+Loyola Marymount,loyola-marymount
+Idaho State,idaho-state
+Green Bay,green-bay
+Wagner,wagner
+Illinois State,illinois-state
+Northern Arizona,northern-arizona
+Eastern Michigan,eastern-michigan
+Mercer,mercer
+Idaho,idaho
+Drake,drake
+Maine,maine
+Duquesne,duquesne
+Texas State,texas-state
+Portland,portland
+Santa Clara,santa-clara
+Wright State,wright-state
+Montana State,montana-state
+Binghamton,binghamton
+James Madison,james-madison
+Marist,marist
+Wofford,wofford
+Northeastern,northeastern
+Rider,rider
+Florida International,florida-international
+Hartford,hartford
+Samford,samford
+Jacksonville State,jacksonville-state
+Harvard,harvard
+Georgia State,georgia-state
+Texas-Arlington,texas-arlington
+Lehigh,lehigh
+Bucknell,bucknell
+Cal State Fullerton,cal-state-fullerton
+Cleveland State,cleveland-state
+Indiana State,indiana-state
+McNeese State,mcneese-state
+North Texas,north-texas
+Furman,furman
+Saint Peter's,saint-peters
+Winthrop,winthrop
+Georgia Southern,georgia-southern
+Hampton,hampton
+Quinnipiac,quinnipiac
+Buffalo,buffalo
+Tennessee-Martin,tennessee-martin
+Lafayette,lafayette
+Central Connecticut State,central-connecticut-state
+Colgate,colgate
+Southeast Missouri State,southeast-missouri-state
+Monmouth,monmouth
+Hofstra,hofstra
+North Carolina-Greensboro,north-carolina-greensboro
+Youngstown State,youngstown-state
+San Jose State,san-jose-state
+St. Francis (NY),st-francis-ny
+Mississippi Valley State,mississippi-valley-state
+Stony Brook,stony-brook
+South Carolina State,south-carolina-state
+Lamar,lamar
+Portland State,portland-state
+William & Mary,william-mary
+UC-Riverside,california-riverside
+Southern Utah,southern-utah
+Fordham,fordham
+Prairie View,prairie-view
+Texas Southern,texas-southern
+Centenary (LA),centenary-la
+Missouri-Kansas City,missouri-kansas-city
+Charleston Southern,charleston-southern
+Saint Francis (PA),saint-francis-pa
+Delaware State,delaware-state
+Texas A&M-Corpus Christi,texas-am-corpus-christi
+Sacramento State,sacramento-state
+Alabama State,alabama-state
+Howard,howard
+Jacksonville,jacksonville
+Florida A&M,florida-am
+Dartmouth,dartmouth
+Texas-El Paso,texas-el-paso
+Southeastern Louisiana,southeastern-louisiana
+Louisiana-Monroe,louisiana-monroe
+IPFW,ipfw
+Eastern Kentucky,eastern-kentucky
+Coppin State,coppin-state
+Gardner-Webb,gardner-webb
+Texas-San Antonio,texas-san-antonio
+Fairleigh Dickinson,fairleigh-dickinson
+Navy,navy
+Western Carolina,western-carolina
+Jackson State,jackson-state
+Citadel,citadel
+Cornell,cornell
+Alcorn State,alcorn-state
+Coastal Carolina,coastal-carolina
+Florida Atlantic,florida-atlantic
+Long Beach State,long-beach-state
+Robert Morris,robert-morris
+North Carolina-Asheville,north-carolina-asheville
+Virginia Military Institute,virginia-military-institute
+Elon,elon
+Long Island University,long-island-university
+Norfolk State,norfolk-state
+Liberty,liberty
+Western Illinois,western-illinois
+Chicago State,chicago-state
+Mount St. Mary's,mount-st-marys
+Stetson,stetson
+Maryland-Baltimore County,maryland-baltimore-county
+Texas-Rio Grande Valley,texas-pan-american
+Albany (NY),albany-ny
+Northwestern State,northwestern-state
+Sacred Heart,sacred-heart
+High Point,high-point
+Alabama A&M,alabama-am
+Loyola (MD),loyola-md
+Grambling,grambling
+New Hampshire,new-hampshire
+Columbia,columbia
+Southern,southern
+Towson,towson
+Bethune-Cookman,bethune-cookman
+Radford,radford
+Army,army
+Campbell,campbell
+Maryland-Eastern Shore,maryland-eastern-shore
+Morgan State,morgan-state
+Nicholls State,nicholls-state
+Tennessee State,tennessee-state
+Arkansas-Pine Bluff,arkansas-pine-bluff
+Morris Brown,morris-brown
+Savannah State,savannah-state
+North Carolina A&T,north-carolina-at

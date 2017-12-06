@@ -1,0 +1,13 @@
+number	weight	playerName	hometown	pos	height	playerId	summary	class
+1	190	Daniel Gibson		G	74	daniel-gibson-1	14.2 Pts, 3.6 Reb, 3.9 Ast	FR
+22	235	Brad Buckman	Austin, TX	F	80	brad-buckman-1	12.5 Pts, 8.3 Reb, 1.0 Ast	JR
+21	245	Jason Klotz	Klein, TX	C	81	jason-klotz-1	11.2 Pts, 5.8 Reb, 1.0 Ast	SR
+10	190	Kenny Taylor	Sugar Land, TX	G	75	kenny-taylor-1	10.6 Pts, 3.8 Reb, 2.6 Ast	SR
+2	225	P.J. Tucker		F	77	pj-tucker-1	13.7 Pts, 8.0 Reb, 2.2 Ast	SO
+12	185	Kenton Paulino	Los Angeles, CA	G	73	kenton-paulino-1	6.9 Pts, 1.7 Reb, 2.1 Ast	JR
+13	200	Sydmill Harris		G	77	sydmill-harris-1	6.5 Pts, 1.8 Reb, 0.6 Ast	SR
+23	240	LaMarcus Aldridge	Dallas, TX	F	83	lamarcus-aldridge-1	9.9 Pts, 5.9 Reb, 0.9 Ast	FR
+21	240	Mike Williams	Camden, AL	F	79	mike-williams-5	3.2 Pts, 3.9 Reb, 0.3 Ast	FR
+1	205	Dion Dowell	Texas City, TX	F	79	dion-dowell-1	2.1 Pts, 1.4 Reb, 0.3 Ast	FR
+31	230	Chris Price	Houston, TX			chris-price-1	0.6 Pts, 0.4 Reb, 0.2 Ast	FR
+5	150	Adam Gracely	Houston, TX			adam-gracely-1	0.4 Pts, 0.4 Reb, 0.2 Ast	FR

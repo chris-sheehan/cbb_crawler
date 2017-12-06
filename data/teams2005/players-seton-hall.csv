@@ -1,0 +1,15 @@
+number	weight	playerName	hometown	pos	height	playerId	summary	class
+32	207	John Allen	Coatesville, PA	F	77	john-allen-2	11.5 Pts, 4.9 Reb, 2.6 Ast	SR
+1	240	Kelly Whitney	Chicago, IL	F	80	kelly-whitney-1	11.9 Pts, 6.3 Reb, 0.6 Ast	JR
+33	215	Andre Sweet	New York, NY	F	78	andre-sweet-1	8.9 Pts, 5.8 Reb, 1.4 Ast	SR
+4	206	J.R. Morris	Milwaukee, WI	G	78	jr-morris-1	10.1 Pts, 5.8 Reb, 1.1 Ast	JR
+10	170	Donald Copeland	Jersey City, NJ	G	70	donald-copeland-1	6.9 Pts, 2.3 Reb, 2.4 Ast	JR
+24	190	Justin Cerasoli	Chicago, IL	G	77	justin-cerasoli-1	6.2 Pts, 3.0 Reb, 2.5 Ast	FR
+33	252	Grant Billmeier	Pennington, NJ	C	82	grant-billmeier-1	3.9 Pts, 3.4 Reb, 0.9 Ast	SO
+2	205	Jamar Nutter	Bloomfield, NJ	G	74	jamar-nutter-1	4.3 Pts, 1.6 Reb, 1.2 Ast	SO
+14	215	Brian Laing	Bronx, NY	G	77	brian-laing-1	2.8 Pts, 1.3 Reb, 0.5 Ast	FR
+21	220	Mani Messy		F	79	mani-messy-1	2.2 Pts, 0.8 Reb, 0.2 Ast	SO
+50	250	Marcus Cousin	Baltimore, MD	C	83	marcus-cousin-1	0.4 Pts, 1.1 Reb, 0.1 Ast	FR
+22	245	Alexander Gambino	Huntington Station, NY	C	84	alexander-gambino-1	0.8 Pts, 1.4 Reb, 0.0 Ast	JR
+15	0	Rob Ntiamoah				rob-ntiamoah-1	0.0 Pts, 0.0 Reb, 2.0 Ast	FR
+25	0	Hernan Perez				hernan-perez-1	0.0 Pts, 0.0 Reb, 0.0 Ast	FR

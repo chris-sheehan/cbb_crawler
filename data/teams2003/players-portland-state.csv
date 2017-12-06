@@ -1,0 +1,16 @@
+number	weight	playerName	hometown	pos	height	playerId	summary	class
+33	200	Jeb Ivey	San Jose, CA	G	74	jeb-ivey-1	15.0 Pts, 3.1 Reb, 2.7 Ast	SR
+25	180	Kevin Briggs	Portland, OR	G	74	kevin-briggs-1	12.9 Pts, 3.3 Reb, 3.1 Ast	SR
+44	220	Seth Scott	Orem, UT	F	82	seth-scott-1	12.4 Pts, 6.0 Reb, 1.3 Ast	JR
+55	260	Brandon Haughton	Baltimore, MD	C	79	brandon-haughton-1	4.8 Pts, 6.2 Reb, 0.4 Ast	JR
+3	175	John Giannoni	Lodi, CA	G	72	john-giannoni-1	3.2 Pts, 1.4 Reb, 1.1 Ast	JR
+	195	Troy DeVries	Mount Vernon, WA	G	75	troy-devries-1	6.2 Pts, 2.4 Reb, 1.0 Ast	SO
+		Ben Coffee		F	78	ben-coffee-1	2.3 Pts, 2.4 Reb, 0.1 Ast	JR
+31	225	Keith Sconiers	Fresno, CA	F	79	keith-sconiers-1	2.0 Pts, 2.0 Reb, 0.1 Ast	SO
+44	230	Marshal Hartman	Portland, OR	F	79	marshal-hartman-1	8.4 Pts, 3.6 Reb, 0.8 Ast	FR
+42	220	Seamus Boxley	Mountlake Terrace, WA	F	79	seamus-boxley-1	10.0 Pts, 5.5 Reb, 2.8 Ast	JR
+50	260	Steven Hamilton	Upland, CA	C	83	steven-hamilton-1	1.3 Pts, 1.5 Reb, 0.1 Ast	JR
+12	170	John Glaser	Tucson, AZ	G	71	john-glaser-1	1.1 Pts, 1.8 Reb, 1.6 Ast	JR
+	190	Chris Walter	Tucson, AZ	G	75	chris-walter-1	1.9 Pts, 1.8 Reb, 0.2 Ast	FR
+	235	Jeff Eischen	Hillsboro, OR		80	jeff-eischen-1		
+		A Robinson				a-robinson-1		

@@ -1,0 +1,15 @@
+number	weight	playerName	hometown	pos	height	playerId	summary	class
+20	215	Max Mombollet	Oviedo, FL	F	80	max-mombollet-1	12.0 Pts, 6.1 Reb, 1.1 Ast	JR
+30	185	Clyde Wormley	Columbus, GA	G	76	clyde-wormley-1	9.5 Pts, 3.5 Reb, 1.3 Ast	SR
+22	225	Mike Joseph	Deerfield Beach, FL	G	77	mike-joseph-1	9.0 Pts, 5.3 Reb, 1.8 Ast	SR
+22	189	Kevin Hammack	Baltimore, MD	G	73	kevin-hammack-1	7.5 Pts, 2.4 Reb, 4.8 Ast	FR
+42	235	Gregg Jones	Waldorf, MD	C	80	gregg-jones-1	7.3 Pts, 4.8 Reb, 0.2 Ast	SR
+3	235	Romas Krywonis	Phoenix, MD	G	80	romas-krywonis-1	6.4 Pts, 4.4 Reb, 0.8 Ast	SR
+5	175	Kenny Milford	Charleston, SC	G	72	kenny-milford-1	5.1 Pts, 1.9 Reb, 2.6 Ast	SR
+10	195	Dante Terry	Virginia Beach, VA	G	74	dante-terry-1	4.6 Pts, 1.0 Reb, 0.7 Ast	FR
+11	179	Erick Wilson	Omaha, NE	G	72	erick-wilson-1	3.8 Pts, 0.9 Reb, 1.0 Ast	JR
+33	227	Ben Tobias	Oregon, OH	F	78	ben-tobias-1	2.8 Pts, 1.0 Reb, 0.2 Ast	SR
+21	210	Matt Davis	Carrollton, TX	F	77	matt-davis-1	1.3 Pts, 0.9 Reb, 0.1 Ast	FR
+12	168	Kedron Young	Moncks Corner, SC	G	72	kedron-young-1	1.0 Pts, 0.0 Reb, 0.0 Ast	SO
+4	0	Chris Taylor		G	72	chris-taylor-1	0.5 Pts, 0.5 Reb, 0.0 Ast	FR
+25	245	Andy Miller	Pittsburgh, PA	C	82	andy-miller-1	0.0 Pts, 0.8 Reb, 0.0 Ast	FR

@@ -1,0 +1,15 @@
+number	weight	playerName	hometown	pos	height	playerId	summary	class
+0	230	Drew Gooden	Richmond, CA	F	82	drew-gooden-1	19.8 Pts, 11.4 Reb, 2.0 Ast	JR
+4	255	Nick Collison		F	81	nick-collison-1	15.6 Pts, 8.3 Reb, 1.7 Ast	JR
+10	190	Kirk Hinrich		G	75	kirk-hinrich-1	14.8 Pts, 4.8 Reb, 5.0 Ast	JR
+13	185	Jeff Boschee	Valley City, ND	G	75	jeff-boschee-1	13.4 Pts, 2.6 Reb, 2.4 Ast	SR
+5	215	Keith Langford		G	76	keith-langford-1	7.9 Pts, 3.3 Reb, 1.5 Ast	FR
+11	175	Aaron Miles		G	73	aaron-miles-1	7.1 Pts, 2.7 Reb, 6.8 Ast	FR
+23	255	Wayne Simien		F	81	wayne-simien-1	8.1 Pts, 5.3 Reb, 0.3 Ast	FR
+22	250	Jeff Carey	Camdenton, MO	F	83	jeff-carey-1	1.9 Pts, 1.6 Reb, 0.1 Ast	SR
+25	215	Michael Lee	Portland, OR	G	75	michael-lee-1	1.2 Pts, 0.4 Reb, 0.3 Ast	FR
+33	205	Bryant Nash	Carrollton, TX	F	78	bryant-nash-1	1.0 Pts, 0.7 Reb, 0.1 Ast	SO
+	175	Brett Ballard	Hutchinson, KS	G	73	brett-ballard-1	0.8 Pts, 0.5 Reb, 0.5 Ast	SR
+34	235	Chris Zerbe	Andover, KS	F	77	chris-zerbe-1	1.0 Pts, 0.8 Reb, 0.1 Ast	SR
+50	230	Todd Kappelmann	Augusta, KS	F	81	todd-kappelmann-1	0.7 Pts, 0.6 Reb, 0.1 Ast	SR
+2	165	Lewis Harrison	Kansas City, KS	G	72	lewis-harrison-1	0.2 Pts, 0.2 Reb, 0.2 Ast	SR

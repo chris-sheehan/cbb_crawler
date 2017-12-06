@@ -1,0 +1,12 @@
+number	weight	playerName	hometown	pos	height	playerId	summary	class
+30	195	Pete Conway	Billings, MT	G	77	pete-conway-1	14.3 Pts, 2.0 Reb, 0.9 Ast	SR
+10	185	Jason Erickson	Eagle River, AK	G	75	jason-erickson-1	11.1 Pts, 2.3 Reb, 3.1 Ast	JR
+42	230	Casey Reynolds	Belfair, WA	F	78	casey-reynolds-1	8.4 Pts, 6.1 Reb, 1.6 Ast	SR
+54	245	Bo Segeberg	Wrightwood, CA	C	82	bo-segeberg-1	8.4 Pts, 4.6 Reb, 0.4 Ast	JR
+23	210	Shea Washington	Springfield, OR	F	79	shea-washington-1	7.6 Pts, 4.6 Reb, 1.0 Ast	FR
+24	185	Josh Barsh	Puyallup, WA	F	75	josh-barsh-1	4.7 Pts, 2.1 Reb, 1.5 Ast	JR
+4	215	Calvin Ento	Vashon Island, WA	F	78	calvin-ento-1	4.6 Pts, 3.0 Reb, 0.6 Ast	JR
+11	160	Frank Brown	Las Vegas, NV	G	74	frank-brown-1	3.7 Pts, 1.9 Reb, 3.1 Ast	FR
+	200	Danny Faaborg	Bozeman, MT	F	77	danny-faaborg-1	3.4 Pts, 2.0 Reb, 1.2 Ast	JR
+32	200	Zach Devine	Eagle River, AK	G	75	zach-devine-1	1.6 Pts, 0.2 Reb, 0.4 Ast	JR
+44	220	J.D. Arnott	Great Falls, MT	F	78	jd-arnott-1	0.0 Pts, 0.0 Reb, 0.0 Ast	JR

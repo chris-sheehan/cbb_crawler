@@ -1,0 +1,13 @@
+number	weight	playerName	hometown	pos	height	playerId	summary	class
+42	210	Valdas Vasylius		F	79	valdas-vasylius-1	15.6 Pts, 6.1 Reb, 0.9 Ast	SR
+10	185	Drew Williamson	Burlington, NC	G	72	drew-williamson-2	11.0 Pts, 3.6 Reb, 4.3 Ast	SR
+20	200	Brian Henderson	Richmond, VA	F	76	brian-henderson-2	9.4 Pts, 2.9 Reb, 1.5 Ast	SR
+31	230	Arnaud Dahi		F	79	arnaud-dahi-1	9.4 Pts, 6.3 Reb, 1.0 Ast	SR
+4	180	Brandon Johnson	Orlando, FL	G	73	brandon-johnson-2	8.3 Pts, 4.6 Reb, 3.8 Ast	JR
+0	200	Abdi Lidonde	Sutton, MA	G	74	abdi-lidonde-1	4.6 Pts, 2.0 Reb, 0.9 Ast	JR
+12	250	Gerald Lee		C	81	gerald-lee-1	4.2 Pts, 3.3 Reb, 0.6 Ast	FR
+34	215	Jonathan Adams	Ringgold, GA	F	78	jonathan-adams-1	3.0 Pts, 3.4 Reb, 0.9 Ast	SO
+23	190	Marsharee Neely	Greensboro, NC	G	74	marsharee-neely-1	2.4 Pts, 0.7 Reb, 0.3 Ast	FR
+30	270	Sam Harris		C	87	sam-harris-1	1.7 Pts, 1.2 Reb, 0.2 Ast	JR
+3	180	John Morris	Camp Hill, PA	G	73	john-morris-1	0.9 Pts, 0.5 Reb, 0.6 Ast	SR
+24	180	Joshua Russell	Suffolk, VA			joshua-russell-1	0.0 Pts, 1.0 Reb, 1.0 Ast	FR

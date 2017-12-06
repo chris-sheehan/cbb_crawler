@@ -1,0 +1,14 @@
+number	weight	playerName	hometown	pos	height	playerId	summary	class
+20	210	Fred Jones	Gresham, OR	G	76	fred-jones-1	18.6 Pts, 5.4 Reb, 3.2 Ast	SR
+33	215	Luke Jackson		G	79	luke-jackson-1	16.7 Pts, 5.4 Reb, 3.3 Ast	SO
+13	175	Luke Ridnour		G	74	luke-ridnour-1	15.5 Pts, 2.9 Reb, 5.0 Ast	SO
+25	300	Chris Christoffersen		C	86	chris-christoffersen-1	8.2 Pts, 5.4 Reb, 0.3 Ast	SR
+3	245	Robert Johnson	Sebastopol, CA	F	80	robert-johnson-2	7.5 Pts, 7.5 Reb, 1.2 Ast	JR
+34	185	Anthony Lever	Tucson, AZ	G	75	anthony-lever-1	6.3 Pts, 1.5 Reb, 0.9 Ast	SR
+1	175	James Davis	Vancouver, WA	G	70	james-davis-2	6.0 Pts, 1.2 Reb, 1.3 Ast	SO
+40	260	Brian Helquist	Jacksonville, FL	C	81	brian-helquist-1	3.5 Pts, 2.6 Reb, 0.1 Ast	JR
+50	230	Mark Michaelis	South Jordan, UT	F	84	mark-michaelis-2	2.0 Pts, 1.5 Reb, 0.2 Ast	SR
+24	195	Ben Lindquist	St. George, UT	G	76	ben-lindquist-1	2.5 Pts, 1.2 Reb, 1.5 Ast	SR
+55	220	Jay Anderson	Faribault, MN	C	81	jay-anderson-1	1.6 Pts, 1.2 Reb, 0.2 Ast	SO
+21	185	Kristian Christensen	Ojai, CA	G	73	kristian-christensen-1	0.5 Pts, 0.0 Reb, 0.4 Ast	SO
+5	235	Matt Short	Yreka, CA		84	matt-short-1	0.0 Pts, 0.0 Reb, 0.0 Ast	

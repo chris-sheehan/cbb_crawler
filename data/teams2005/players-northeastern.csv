@@ -1,0 +1,15 @@
+number	weight	playerName	hometown	pos	height	playerId	summary	class
+5	175	J.J. Barea		G	72	jose-barea-1	22.2 Pts, 4.3 Reb, 7.3 Ast	JR
+3	215	Marcus Barnes	Miami, FL	G	74	marcus-barnes-1	15.9 Pts, 2.8 Reb, 1.1 Ast	SR
+21	225	Shawn James	Brooklyn, NY	F	82	shawn-james-1	10.3 Pts, 7.6 Reb, 0.7 Ast	FR
+14	220	Bennet Davis		F	81	bennet-davis-1	8.0 Pts, 6.4 Reb, 0.9 Ast	SO
+12	180	Aaron Davis	Maplewood, NJ	G	75	aaron-davis-1	6.9 Pts, 2.9 Reb, 0.5 Ast	SR
+22	200	Bobby Kelly	Dedham, MA	G	75	bobby-kelly-1	4.3 Pts, 2.6 Reb, 1.3 Ast	SO
+33	210	Janon Cole	Dedham, MA	F	78	janon-cole-1	4.1 Pts, 4.8 Reb, 0.4 Ast	JR
+11	200	Adrian Martinez	Hialeah, FL	G	74	adrian-martinez-1	3.4 Pts, 0.8 Reb, 0.7 Ast	JR
+50	235	Mark Washington	Raceland, LA	F	79	mark-washington-1	1.7 Pts, 1.3 Reb, 0.2 Ast	FR
+15	205	Jeff Farmer	Clinton, CT	F	77	jeff-farmer-1	1.2 Pts, 0.2 Reb, 0.3 Ast	JR
+10	185	Jerome Kirkland	Boston, MA	G	70	jerome-kirkland-1	0.4 Pts, 0.6 Reb, 0.7 Ast	FR
+41	200	Shae Pinckney	Key Biscayne, FL	F	76	shae-pinckney-1	0.7 Pts, 0.3 Reb, 0.3 Ast	FR
+24	255	Chris Coffey	Farmingdale, NY	C	78	chris-coffey-1	0.2 Pts, 0.2 Reb, 0.0 Ast	JR
+1	160	Dipo Popoola	Marietta, GA	G	70	dipo-popoola-1	0.0 Pts, 0.2 Reb, 0.0 Ast	SO

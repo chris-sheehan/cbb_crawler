@@ -1,0 +1,15 @@
+number	weight	playerName	hometown	pos	height	playerId	summary	class
+10	170	Donald Copeland	Jersey City, NJ	G	70	donald-copeland-1	16.1 Pts, 3.0 Reb, 4.5 Ast	SR
+1	240	Kelly Whitney	Chicago, IL	F	80	kelly-whitney-1	15.2 Pts, 7.9 Reb, 1.2 Ast	SR
+2	205	Jamar Nutter	Bloomfield, NJ	G	74	jamar-nutter-1	12.1 Pts, 3.6 Reb, 1.7 Ast	JR
+14	215	Brian Laing	Bronx, NY	G	77	brian-laing-1	5.8 Pts, 3.6 Reb, 1.5 Ast	SO
+22	188	Paul Gause	Pittsgrove, NJ	G	71	paul-gause-1	6.1 Pts, 2.8 Reb, 1.0 Ast	FR
+33	252	Grant Billmeier	Pennington, NJ	C	82	grant-billmeier-1	3.8 Pts, 3.5 Reb, 0.8 Ast	JR
+23	242	Stan Gaines	Chicago, IL	F	79	stan-gaines-1	4.8 Pts, 3.9 Reb, 1.8 Ast	JR
+2	240	David Palmer	Antioch, TN	C	81	david-palmer-2	3.0 Pts, 2.0 Reb, 0.1 Ast	FR
+50	250	Marcus Cousin	Baltimore, MD	C	83	marcus-cousin-1	2.1 Pts, 3.5 Reb, 0.1 Ast	SO
+20	180	Carl Marshall	Chicago, IL	G	71	carl-marshall-1	1.1 Pts, 0.5 Reb, 0.3 Ast	JR
+31	270	John Garcia	Brentwood, NY	C	81	john-garcia-1	1.8 Pts, 1.6 Reb, 0.4 Ast	FR
+25	160	Tyrell Cotten	Corona, NY			tyrell-cotten-1	0.0 Pts, 0.0 Reb, 0.0 Ast	FR
+21	220	Mani Messy		F	79	mani-messy-1	0.0 Pts, 0.5 Reb, 0.0 Ast	JR
+33	240	Mike Pilgrim	Cincinnati, OH	F	80	mike-pilgrim-1	0.0 Pts, 1.0 Reb, 0.0 Ast	SO

@@ -1,0 +1,15 @@
+number	weight	playerName	hometown	pos	height	playerId	summary	class
+11	175	Tony Tate	Jersey City, NJ	G	72	tony-tate-1	15.4 Pts, 3.4 Reb, 4.2 Ast	JR
+4	230	Darius Glover	Chicago, IL	F	77	darius-glover-1	11.0 Pts, 5.3 Reb, 1.1 Ast	JR
+21	200	Jonathan Kelly	Tallahassee, FL	G	78	jonathan-kelly-2	8.1 Pts, 3.7 Reb, 0.8 Ast	JR
+30	220	Michael Harper	Alpharetta, GA	C	81	michael-harper-2	7.1 Pts, 3.7 Reb, 0.4 Ast	SR
+32	230	O.J. Sumter	Brooklyn, NY	F	78	oj-sumter-1	6.8 Pts, 4.7 Reb, 0.4 Ast	JR
+10	200	James Pattman	Roswell, GA	G	73	james-pattman-1	5.5 Pts, 2.2 Reb, 2.8 Ast	JR
+22	200	Michael Sams	Bartow, FL	G	75	michael-sams-1	4.0 Pts, 1.1 Reb, 0.6 Ast	JR
+1	165	Jon Mason	Panama City, FL	G	75	jon-mason-1	4.1 Pts, 0.9 Reb, 0.8 Ast	FR
+25	215	Michael Ayodele		C	81	michael-ayodele-1	2.5 Pts, 2.6 Reb, 0.4 Ast	SR
+44	260	Glen Elliott	Atlantic Beach, FL	C	81	glen-elliott-1	6.7 Pts, 4.7 Reb, 0.7 Ast	JR
+22	195	Brian Zamore		F	80	brian-zamore-1	1.8 Pts, 2.2 Reb, 0.2 Ast	SR
+3	0	Jason Thomas	Aurora, IL	G	75	jason-thomas-1	8.0 Pts, 3.7 Reb, 0.7 Ast	FR
+14	215	Victor Monaros	Queens, NY	C	77	victor-monaros-1	1.1 Pts, 0.8 Reb, 0.2 Ast	FR
+14	198	Jeremy Henderson	Aurora, IL	G	72	jeremy-henderson-1	0.6 Pts, 0.8 Reb, 0.2 Ast	SR
